@@ -1,0 +1,80 @@
+<%
+	var localMeta = {
+		title: 'Menu',
+		styles: ['/css/game/menu.css'],
+		scripts: ['/js/game/menu.js'],
+	};
+%>
+<%- include('../base/base_header.ejs', {meta: localMeta}) %>
+<div class="container mt-5">
+	<div class="row justify-content-center">
+		<div class="col-md-6">
+			<div class="card">
+				<div class="card-body">
+					<h1 class="card-title text-center">Menu</h1>
+
+					<div class="text-center">
+						<a href="javascript:toggleMenu()" class="btn btn-primary w-100 mt-3">冒険に出る / 続きから冒険する</a>
+						<a href="/game/resultList/<%= userid %>/" class="btn btn-secondary w-100 mt-3">成績確認</a>
+						<a href="/game/rank" class="btn btn-secondary w-100 mt-3">ランキングを見る</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div id="menu-overlay" class="us-none">
+	<div id="menu-overlay-content">
+		<p class="text-center">冒険を選択</p>
+		<div id="risk-list" class="d-flex flex-column">
+			<% if (games.length < 5) { %>
+			<div class="card">
+				<div class="card-body">
+					<a href="/game/startup" class="stretched-link text-decoration-none">
+						<h5 class="card-title m-0 text-center">新たな冒険を始める</h5>
+					</a>
+				</div>
+			</div>
+			<% } %>
+			<% for (let i = 0; i < games.length; i++) { %>
+			<div class="card">
+				<div class="card-body">
+					<a href="javascript:loadGame(<%= games[i].id %>)" class="stretched-link text-decoration-none">
+						<div class="d-flex justify-content-between">
+							<span class="text-info">
+								<%=
+								games[i].created_at.toLocaleDateString("ja-JP", {
+									year: "numeric",
+									month: "2-digit",
+									day: "2-digit"
+								})
+								%>に始まった冒険
+							</span>
+							<span class="ml-2 text-success">
+								[マップ<%= games[i].now_mapid %>]
+							</span>
+						</div>
+						<div class="mt-2">
+							<p class="mb-0 text-muted text-end" style="font-size: .8em;">
+								最終アクセス:
+								<%=
+								games[i].updated_at.toLocaleDateString("ja-JP", {
+										year: "numeric",
+										month: "2-digit",
+										day: "2-digit",
+										hour: "2-digit",
+										minute: "2-digit",
+										second: "2-digit"
+									})
+								%>
+							</p>
+						</div>
+					</a>
+				</div>
+			</div>
+			<% } %>
+		</div>
+		<a id="menu-overlay-close" href="javascript:toggleMenu()">x</a>
+	</div>
+</div>
+<%- include('../base/_footer.ejs') %>

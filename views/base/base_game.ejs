@@ -1,0 +1,36 @@
+<%
+	var localMeta = {
+		title: meta?.title ?? "GAME",
+		styles: ['/css/game/game.css', ...(meta?.styles ?? [])],
+		scripts: ['https://cdn.jsdelivr.net/gh/richtr/NoSleep.js/dist/NoSleep.min.js','/js/game/game.js','/js/game/canvasUtil.js', ...(meta?.scripts ?? [])],
+	};
+%>
+<%- include('_header.ejs', {meta: localMeta}) %>
+<div class="game-wrapper" onCopy="return false;" oncontextmenu="return false;">
+	<div class="game-container us-none">
+		<div class="canvas-container">
+			<canvas id="canvas"></canvas>
+			<div id="hamburger-wrapper">
+				<div id="hamburger">
+					<span></span>
+					<span></span>
+					<span></span>
+				</div>
+			</div>
+		</div>
+		<div id="hamburger-menu-overlay">
+			<div class="hamburger-menu">
+				<h4>ゲームメニュー</h4>
+				<ul>
+					<li><a href="/game/menu">メニューに戻る</a></li>
+					<li><a href="javascript:toggleStatistics()">高度な情報を表示する</a></li>
+					<li><a href="javascript:toggleMenu()">閉じる</a></li>
+				</ul>
+			</div>
+		</div>
+		<div id="loading-overlay">
+			<div class="loading-text">Loading...</div>
+		</div>
+	</div>
+</div>
+<%- include('_footer.ejs') %>

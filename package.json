@@ -1,0 +1,32 @@
+{
+  "name": "quizproject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "snows",
+  "license": "GPL",
+  "description": "",
+  "volta": {
+    "node": "20.14.0",
+    "npm": "10.8.1"
+  },
+  "dependencies": {
+    "@express-rate-limit/cluster-memory-store": "^0.3.0",
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.2",
+    "compression": "^1.7.4",
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "express-mysql-session": "~2.1.8",
+    "express-rate-limit": "^7.3.1",
+    "express-session": "^1.18.0",
+    "express-slow-down": "^2.0.3",
+    "mysql2": "^3.10.1",
+    "node-cron": "^3.0.3",
+    "seedrandom": "^3.0.5"
+  }
+}

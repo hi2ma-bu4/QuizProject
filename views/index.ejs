@@ -1,0 +1,110 @@
+<%
+	var localMeta = {
+		title: 'TOP',
+		styles: ['/css/indexPage.css'],
+		scripts: ['/js/indexSlide.js'],
+	};
+%>
+<%- include('base/base_header.ejs', {meta: localMeta}) %>
+
+<header class="jumbotron text-center bg-primary text-white">
+	<h1 class="display-4">知識で殴る</h1>
+	<p class="lead">～知識で戦う新時代RPG～</p>
+</header>
+
+<div class="container">
+	<div class="row mt-5">
+		<div class="col-md-4 align-self-stretch">
+			<div class="card h-100">
+				<div class="card-body">
+					<h2 class="card-title">概要</h2>
+					<p class="card-text">
+						ローグライト系クイズRPGです。<br />
+						ストーリーなども無くて、学習用にピッタリですね！<br />
+						<small class="text-muted" style="font-size: .8em;">(理由は制作時間が無かったからです)</small>
+					</p>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-4 align-self-stretch">
+			<div class="card h-100">
+				<div class="card-body">
+					<h2 class="card-title">特徴</h2>
+					<ul>
+						<li>過去から現在まで様々な時代の問題</li>
+						<li>同じ問題に出遇わない脅威の問題総数</li>
+						<li>過去の成績も見れて学力向上にも</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-4 align-self-stretch">
+			<div class="card h-100">
+				<div class="card-body">
+					<h2 class="card-title">動作要件</h2>
+					<ul class="list-unstyled">
+						<li>ブラウザ: モダンブラウザのみ</li>
+						<li>拡張機能: 無効にして下さい。</li>
+						<li>通信環境: 不安定でもプレイ可能</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="row mt-4 mb-5">
+		<div class="col-md-4 align-self-stretch">
+			<div class="card h-100">
+				<div class="card-body">
+					<h2 class="card-title">現在の実装ジャンル</h2>
+					<ul class="list-unstyled">
+						<%
+				let allSum = 0;
+				for (let key in quizCouList) {
+					let quizCou = quizCouList[key];
+					let sum = quizCou.reduce((s, n) => s + n, 0);
+					allSum += sum;
+				%>
+						<li><%= key %> <%= sum %>問<span class="text-muted" style="font-size: .8em;">(<%= quizCou.map((x) => ""+x).join(",") %>)</span></li>
+						<% } %>
+					</ul>
+					<p class="card-text">合計<%= allSum %>問</p>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-4 align-self-stretch">
+			<div class="card h-100">
+				<div class="card-body">
+					<h2 class="card-title">ギャラリー</h2>
+					<div class="slideshow-container us-none">
+						<div class="mySlides active">
+							<img src="/img/preview/screenshot1.png" alt="スクリーンショット1" class="img-fluid game-img">
+						</div>
+						<div class="mySlides">
+							<img src="/img/preview/screenshot2.png" alt="スクリーンショット2" class="img-fluid game-img">
+						</div>
+						<div class="mySlides">
+							<img src="/img/preview/screenshot3.png" alt="スクリーンショット3" class="img-fluid game-img">
+						</div>
+						<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+						<a class="next" onclick="plusSlides(1)">&#10095;</a>
+					</div>
+					<p class="card-text"><span class="text-muted" style="font-size: .8em;">※画像は開発中のものです</span></p>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-4 align-self-stretch">
+			<div class="card h-100">
+				<div class="card-body">
+					<h2 class="card-title">ご利用上の注意</h2>
+					<p class="card-text">
+						ユーザー名はランキング等に表示されます。<br />
+						<ruby>公序良俗<rt>こうじょりょうぞく</rt></ruby>に反する言葉や<ruby>個人情報<rt>こじんじょうほう</rt></ruby>を入力しないでください。<br />
+						問題のあるニックネームのアカウントは予告無しに削除される可能があります。
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<%- include('base/_footer.ejs') %>

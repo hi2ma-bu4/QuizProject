@@ -1,0 +1,167 @@
+@charset "UTF-8";
+
+body {
+	overflow-y: hidden;
+}
+
+.game-wrapper, .game-container {
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+	justify-content: flex-start;
+	margin: 0;
+	width: 100%;
+}
+
+.game-wrapper {
+	background-color: #1c1b1f;
+}
+
+.game-container {
+	background-color: #f0f0f0;
+	flex-grow: 1;
+	max-height: 900px;
+	max-width: 800px;
+	position: relative;
+}
+
+.canvas-container {
+	height: 100%;
+	margin: 0;
+	position: relative;
+	width: 100%;
+}
+
+#canvas {
+	background-color: #000;
+	height: calc(100% - 1px);
+	margin: 0;
+	width: 100%;
+}
+
+#hamburger-wrapper {
+	align-items: flex-start;
+	display: flex;
+	height: 100%;
+	justify-content: flex-end;
+	pointer-events: none;
+	position: absolute;
+	right: 0;
+	top: 0;
+	width: 100%;
+	z-index: 110;
+}
+
+#hamburger {
+	background-color: #000a;
+	border-radius: 5px;
+	cursor: pointer;
+	padding: 10px;
+	pointer-events: all;
+}
+
+#hamburger span {
+	background-color: #fff;
+	display: block;
+	margin: 3px 0;
+	pointer-events: none;
+	transition: .3s;
+}
+
+#hamburger span:nth-child(1) {
+	height: 3px;
+	width: 20px;
+}
+
+#hamburger span:nth-child(2) {
+	height: 3px;
+	margin-top: 5px;
+	width: 20px;
+}
+
+#hamburger span:nth-child(3) {
+	height: 3px;
+	margin-top: 5px;
+	width: 20px;
+}
+
+#hamburger.active span:nth-child(1) {
+	transform: rotate(45deg) translate(6px, 5px);
+}
+
+#hamburger.active span:nth-child(2) {
+	opacity: 0;
+}
+
+#hamburger.active span:nth-child(3) {
+	transform: rotate(-45deg) translate(6px, -5px);
+}
+
+#loading-overlay, #hamburger-menu-overlay {
+	align-items: flex-start;
+	background-color: #4444;
+	bottom: 0;
+	display: none;
+	justify-content: right;
+	left: 0;
+	position: absolute;
+	right: 0;
+	top: 0;
+	z-index: 200;
+}
+
+#hamburger-menu-overlay {
+	align-items: center;
+	background-color: #0008;
+	justify-content: center;
+	z-index: 100;
+}
+
+.hamburger-menu {
+	background-color: #f0f0f0;
+	border-radius: 5px;
+	min-width: 200px;
+	padding: 10px;
+}
+
+.hamburger-menu h4 {
+	border-bottom: 1px solid #ccc;
+	margin: 10px 0 5px 0;
+	padding-bottom: 10px;
+	text-align: center;
+}
+
+.hamburger-menu ul {
+	list-style: none;
+	margin: 0 20px;
+	padding: 0;
+}
+
+.hamburger-menu li {
+	padding: 5px;
+}
+
+.hamburger-menu li a {
+	border: 1px solid #ccc;
+	color: #000;
+	display: block;
+	padding: 5px;
+	text-align: center;
+	text-decoration: none;
+}
+
+.hamburger-menu li a:hover {
+	text-decoration: underline;
+}
+
+:is(#loading-overlay, #hamburger-menu-overlay).active {
+	display: flex;
+}
+
+.loading-text {
+	color: #fff;
+	font-size: 1.5em;
+	margin: .5em;
+	text-shadow: #000 0 0 5px;
+}

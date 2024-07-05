@@ -1,0 +1,78 @@
+<%
+	var localMeta = {
+		title: 'Result List',
+		styles: [],
+		scripts: [],
+	};
+%>
+<%- include('../base/base_header.ejs', {meta: localMeta}) %>
+<div class="container mt-5">
+	<div class="justify-content-center">
+		<div>
+			<h1 class="text-center"><%= pageUsername %>の過去の記録</h1>
+			<div class="card">
+				<div class="card-body">
+					<p>正答数: <%= gameStatistics.count %> / <%= gameStatistics.answer_count %></p>
+					<p>
+						総合正答率:
+						<% if (gameStatistics.answer_count > 0) { %>
+						<%= (gameStatistics.count / gameStatistics.answer_count * 100).toFixed(2) %>%
+						<% } else { %>
+						0%
+						<% } %>
+					</p>
+				</div>
+			</div>
+			<div class="my-3 d-flex justify-content-between">
+				<a href="/game/menu" class="btn btn-secondary">メニューに戻る</a>
+				<a href="/game/rank" class="btn btn-primary">ランキングを見る</a>
+			</div>
+		</div>
+		<% if (results.length <= 0) { %>
+		<div>
+			<div class="card">
+				<div class="card-body">
+					<p>過去の記録はありません。</p>
+				</div>
+			</div>
+		</div>
+		<% } %>
+		<% for (var i = 0; i < results.length; i++) { %>
+		<div>
+			<div class="card">
+				<div class="card-body">
+					<h2>
+						<%=
+							results[i].created_at.toLocaleDateString("ja-JP", {
+								year: "numeric",
+								month: "2-digit",
+								day: "2-digit",
+							})
+						%>の冒険
+					</h2>
+					<div>合計回答数:<%= results[i].answer_count %></div>
+					<% if (results[i].pageType === "result") { %>
+					<a class="btn btn-primary" href="/game/result/<%= results[i].id %>">詳しい記録を見る</a>
+					<% } else { %>
+					<span class="btn btn-secondary">冒険が完了していません</span>
+					<% } %>
+					<div class="text-muted text-end" style="font-size: .8em;">
+						最終更新日
+						<%=
+							results[i].updated_at.toLocaleDateString("ja-JP", {
+								year: "numeric",
+								month: "2-digit",
+								day: "2-digit",
+								hour: "2-digit",
+								minute: "2-digit",
+								second: "2-digit"
+							})
+						%>
+					</div>
+				</div>
+			</div>
+		</div>
+		<% } %>
+	</div>
+</div>
+<%- include('../base/_footer.ejs') %>

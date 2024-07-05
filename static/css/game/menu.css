@@ -1,0 +1,56 @@
+
+#menu-overlay {
+	align-items: center;
+	background-color: rgba(0, 0, 0, .5);
+	display: none;
+	height: 100%;
+	justify-content: center;
+	left: 0;
+	position: fixed;
+	top: 0;
+	width: 100%;
+}
+
+#menu-overlay.active {
+	display: flex;
+}
+
+#menu-overlay-content {
+	background-color: #f0f0f0;
+	margin: 0 auto;
+	max-height: 500px;
+	max-width: 400px;
+	padding: 20px;
+	position: relative;
+}
+
+#menu-overlay-close {
+	color: #000;
+	font-size: 1.5em;
+	line-height: 1em;
+	position: absolute;
+	right: 10px;
+	text-align: center;
+	text-decoration: none;
+	top: 5px;
+}
+
+#menu-overlay-close:hover {
+	color: #aaa;
+}
+
+#risk-list {
+	height: 350px;
+	min-width: 300px;
+	overflow-y: auto;
+}
+
+@media screen and (max-width: 576px) {
+	#risk-list {
+		min-width: 100%;
+	}
+}
+
+#risk-list .card:hover {
+	background-color: #e0e0e0;
+}

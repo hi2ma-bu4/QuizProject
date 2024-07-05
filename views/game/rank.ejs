@@ -1,0 +1,43 @@
+<%
+	var localMeta = {
+		title: 'Ranking',
+		styles: [],
+		scripts: [],
+	};
+%>
+<%- include('../base/base_header.ejs', {meta: localMeta}) %>
+<div class="container mt-5">
+	<div class="row justify-content-center">
+		<div class="col mb-3">
+			<h1 class="text-center">正答率ランキング</h1>
+			<div class="card">
+				<div class="card-body">
+					<p>ユーザー別の順位と正答率を比べられます。</p>
+					<a href="/game/menu" class="btn btn-secondary">メニューに戻る</a>
+				</div>
+			</div>
+		</div>
+		<table class="table">
+			<tr>
+				<th>順位</th>
+				<th>ユーザー名</th>
+				<th>最大正答率</th>
+				<th>合計正答数</th>
+			</tr>
+			<% if (results.length <= 0) { %>
+			<tr>
+				<td colspan="4">ユーザーがいません</td>
+			</tr>
+			<% } %>
+			<% for (var i = 0; i < results.length; i++) { %>
+			<tr>
+				<td><%= i+1 %></td>
+				<td><a class="text-decoration-none" href="/game/resultList/<%= results[i].user %>"><%= results[i].name %></a></td>
+				<td><%= results[i].max_percentage %>%</td>
+				<td><%= results[i].total_count %> / <%= results[i].total_answer_count %></td>
+			</tr>
+			<% } %>
+		</table>
+	</div>
+</div>
+<%- include('../base/_footer.ejs') %>

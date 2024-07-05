@@ -1,0 +1,25 @@
+<%
+	var localMeta = {
+		title: 'Menu',
+		styles: ['/css/game/startup.css'],
+		scripts: ['/js/game/imageData.js', '/js/game/startup.js'],
+	};
+%>
+<%- include('../base/base_header.ejs', {meta: localMeta}) %>
+<div class="container mt-5">
+	<div class="row justify-content-center">
+		<div class="col-md-6">
+			<div class="card">
+				<div class="card-body">
+					<h1 class="card-title text-center">冒険の前準備</h1>
+
+					<form action="" method="post">
+						<div id="items"></div>
+						<input class="btn btn-primary w-100" type="submit" value="冒険を始める">
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<%- include('../base/_footer.ejs') %>

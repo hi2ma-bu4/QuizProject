@@ -1,0 +1,48 @@
+.game-img {
+	height: 300px;
+	object-fit: cover;
+}
+
+.feature-icon {
+	font-size: 50px;
+}
+
+.slideshow-container {
+	margin: auto;
+	max-width: 100%;
+	position: relative;
+}
+
+.mySlides {
+	display: none;
+}
+
+.active {
+	display: block;
+}
+
+.prev, .next {
+	border-radius: 0 3px 3px 0;
+	color: white;
+	cursor: pointer;
+	font-size: 30px;
+	font-weight: bold;
+	padding: 16px;
+	position: absolute;
+	text-decoration: none;
+	top: 50%;
+	transform: translateY(-50%);
+	transition: .6s ease;
+	user-select: none;
+	width: auto;
+}
+
+.next {
+	border-radius: 3px 0 0 3px;
+	right: 0;
+}
+
+.prev {
+	border-radius: 3px 0 0 3px;
+	left: 0;
+}

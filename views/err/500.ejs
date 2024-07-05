@@ -1,0 +1,24 @@
+<%
+	var localMeta = {
+		title: '500 Internal Server Error',
+		styles: [],
+		scripts: [],
+	};
+%>
+<%- include('../base/base_header.ejs', {meta: localMeta}) %>
+<div class="container mt-5">
+	<div class="row justify-content-center">
+		<div class="col-md-6">
+			<div class="card">
+				<div class="card-body">
+					<h1 class="card-title text-center">500 Internal Server Error</h1>
+					<p class="card-text text-center">おっと、何処かがおかしいようです。</p>
+					<div class="text-center">
+						<a href="/" class="btn btn-primary w-100 mt-3">トップに戻る</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<%- include('../base/_footer.ejs') %>

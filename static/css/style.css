@@ -1,0 +1,91 @@
+@charset "UTF-8";
+
+:root {
+	--font-gothic: "Hiragino Sans W3", "Hiragino Kaku Gothic ProN", "ヒラギノ角ゴ ProN W3", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	--font-ming-style: "游明朝", YuMincho, "Hiragino Mincho ProN W3", "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+}
+
+.us-none, .us-none * {
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+
+img.us-none, .us-none img {
+	pointer-events: none;
+}
+
+.us-ok, .us-ok * {
+	-webkit-user-select: text;
+	-moz-user-select: text;
+	-ms-user-select: text;
+	user-select: text;
+}
+
+img.us-ok, .us-ok img {
+	pointer-events: all;
+}
+
+html, body {
+	background-color: #f0f0f0;
+	font-family: var(--font-gothic);
+	height: 100%;
+	margin: 0;
+	overflow-x: hidden;
+	overflow-y: auto;
+	overscroll-behavior: none;
+	padding: 0;
+	touch-action: none;
+	width: 100%;
+}
+
+.effectBuffer {
+	height: 0;
+	margin: 0;
+	padding: 0;
+	width: 0;
+}
+
+.starEffect, .starEffect::before, .starEffect::after {
+	--effect-color: #ffc520;
+	pointer-events: none;
+	position: absolute;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+
+.starEffect {
+	background: transparent;
+	/* box-shadow: 0 0 5px 5px var(--effect-color); */
+	height: 2px;
+	opacity: .8;
+	width: 2px;
+	z-index: 1000;
+}
+
+.starEffect::before, .starEffect::after {
+	background: var(--effect-color);
+	border-radius: 50%;
+	content: '';
+}
+
+.starEffect::before {
+	height: 10px;
+	left: 0;
+	top: -4px;
+	width: 2px;
+}
+
+.starEffect::after {
+	height: 2px;
+	left: -4px;
+	top: 0;
+	width: 10px;
+}
+
+.error {
+	color: red;
+}

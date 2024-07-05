@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0 maximum-scale=1.0, user-scalable=no">
+	<meta name="theme-color" content="#1C1B1F">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+	<title><%= meta.title %> | クイズゲーム</title>
+	<link rel="icon" href="/favicon.ico" sizes="32x32">
+	<link rel="icon" href="/img/icon/icon.svg" type="image/svg+xml">
+	<link rel="apple-touch-icon" href="/img/icon/apple-touch-icon.png">
+	<link rel="manifest" href="/pwa/manifest.webmanifest">
+
+
+	<link rel="stylesheet" href="/css/style.css">
+
+	<script src="https://cdn.jsdelivr.net/gh/hi2ma-bu4/jasc/jasc.js"></script>
+	<script src="/js/settings.js"></script>
+	<script src="/js/effect.js" defer></script>
+
+	<% if (meta.styles) {
+		for (let i = 0; i < meta.styles.length; i++) {
+	%>
+	<link rel="stylesheet" href="<%=meta.styles[i]%>">
+	<%
+		}
+	}
+	if (meta.scripts){
+		for (let i = 0; i < meta.scripts.length; i++) {
+	%>
+	<script src="<%=meta.scripts[i]%>"></script>
+	<%
+		}
+	}
+	%>
+
+</head>
+<body>

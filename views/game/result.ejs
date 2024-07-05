@@ -1,0 +1,55 @@
+<%
+	var localMeta = {
+		title: 'Result',
+		styles: [],
+		scripts: ['https://cdn.jsdelivr.net/npm/chart.js', '/js/game/result.js'],
+	};
+%>
+<%- include('../base/base_header.ejs', {meta: localMeta}) %>
+<script>
+	const subjects = JSON.parse(`<%- JSON.stringify(subjects) %>`);
+	const genres = JSON.parse(`<%- JSON.stringify(genres) %>`);
+</script>
+<div class="container mt-5">
+	<div class="row justify-content-center">
+		<div class="col-md-6">
+			<div class="card">
+				<div class="card-body">
+					<h1 class="card-title text-center">
+						<%= pageUsername %>の冒険の結果
+					</h1>
+					<canvas id="genre_chart"></canvas>
+					<div class="text-muted text-end" style="font-size: .8em;">
+						<%=
+							game.created_at.toLocaleDateString("ja-JP", {
+								year: "numeric",
+								month: "2-digit",
+								day: "2-digit",
+								hour: "2-digit",
+								minute: "2-digit",
+								second: "2-digit"
+							})
+						%>
+						～
+						<%=
+							game.updated_at.toLocaleDateString("ja-JP", {
+								year: "numeric",
+								month: "2-digit",
+								day: "2-digit",
+								hour: "2-digit",
+								minute: "2-digit",
+								second: "2-digit"
+							})
+						%>
+					</div>
+					<br />
+					<div class="d-flex justify-content-between">
+						<a href="/game/menu" class="btn btn-secondary">メニューに戻る</a>
+						<a href="/game/resultList/<%= pageUserid %>" class="btn btn-primary">過去の記録一覧を見る</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<%- include('../base/_footer.ejs') %>
