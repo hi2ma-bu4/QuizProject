@@ -1,0 +1,743 @@
+[
+    {
+        "quest": "「ウーロン茶」を英語で書いたとき最初のアルファベット？",
+        "choice": [
+            "O",
+            "W",
+            "H",
+            "U"
+        ],
+        "answer": "O"
+    },
+    {
+        "quest": "元々は「チャイニーズグーズベリー」と呼ばれていた果物は何？",
+        "choice": [
+            "ドラゴンフルーツ",
+            "ラズベリー",
+            "キウイ",
+            "ライチ"
+        ],
+        "answer": "キウイ",
+        "write": 4
+    },
+    {
+        "quest": "英語で「bomb」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "出くわす",
+            "作戦を立てる",
+            "大失敗する",
+            "泣き出す"
+        ],
+        "answer": "大失敗する"
+    },
+    {
+        "quest": "「病気」を英語でいうと何？",
+        "choice": [
+            "kindness",
+            "sickness",
+            "darkness",
+            "illness"
+        ],
+        "answer": "illness"
+    },
+    {
+        "quest": "「live」を日本語でいうと何？",
+        "choice": [
+            "読む",
+            "飲む",
+            "住む",
+            "売る"
+        ],
+        "answer": "住む"
+    },
+    {
+        "quest": "「tragedy」を日本語でいうと何？",
+        "choice": [
+            "観劇",
+            "寸劇",
+            "悲劇",
+            "喜劇"
+        ],
+        "answer": "悲劇"
+    },
+    {
+        "quest": "「much」を日本語でいうと何？",
+        "choice": [
+            "少量の",
+            "音量の",
+            "多量の",
+            "雨量の"
+        ],
+        "answer": "多量の"
+    },
+    {
+        "quest": "演技が下手な役者を指す「大根役者」。英語圏では何という？",
+        "choice": [
+            "ham",
+            "cheese",
+            "pan",
+            "lettuce"
+        ],
+        "answer": "ham"
+    },
+    {
+        "quest": "次のうち、陸上競技でその大会の新記録を表す略称GRを略さずに言うとどれ？",
+        "choice": [
+            "Game Records",
+            "Ground Raps",
+            "Ground Records",
+            "Game Raps"
+        ],
+        "answer": "Game Records"
+    },
+    {
+        "quest": "英語の「the end of the road」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "限界",
+            "田舎",
+            "やり直し",
+            "目標"
+        ],
+        "answer": "限界"
+    },
+    {
+        "quest": "「原理」という意味の英単語はどれ？",
+        "choice": [
+            "principle",
+            "principal",
+            "prinsipal",
+            "prinsiple"
+        ],
+        "answer": "principle"
+    },
+    {
+        "quest": "「私たち」を英語でいうと何？",
+        "choice": [
+            "he",
+            "we",
+            "she",
+            "you"
+        ],
+        "answer": "we"
+    },
+    {
+        "quest": "「成熟した」という意味を持つ英単語はどれ？",
+        "choice": [
+            "mutare",
+            "muture",
+            "matare",
+            "mature"
+        ],
+        "answer": "mature"
+    },
+    {
+        "quest": "「助言」という意味の名詞はどれ？",
+        "choice": [
+            "addvise",
+            "advise",
+            "advice",
+            "addvice"
+        ],
+        "answer": "advice"
+    },
+    {
+        "quest": "「事例」を英語でいうと何？",
+        "choice": [
+            "answer",
+            "case",
+            "solution",
+            "question"
+        ],
+        "answer": "case"
+    },
+    {
+        "quest": "英語の「put on the air」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "ブレーキを踏む",
+            "エンジンをかける",
+            "加速する",
+            "ハンドルを切る"
+        ],
+        "answer": "ブレーキを踏む"
+    },
+    {
+        "quest": "英語の「thumb one's nose at」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "探し出す",
+            "軽蔑する",
+            "失敗する",
+            "無理をする"
+        ],
+        "answer": "軽蔑する"
+    },
+    {
+        "quest": "「同意する」という意味の英単語はどれ？",
+        "choice": [
+            "acsept",
+            "accept",
+            "except",
+            "exccept"
+        ],
+        "answer": "accept"
+    },
+    {
+        "quest": "「world」を日本語でいうと何？",
+        "choice": [
+            "一周",
+            "文章",
+            "争い",
+            "世界"
+        ],
+        "answer": "世界"
+    },
+    {
+        "quest": "「urban」を日本語でいうと何？",
+        "choice": [
+            "村の",
+            "世界の",
+            "国の",
+            "都市の"
+        ],
+        "answer": "都市の"
+    },
+    {
+        "quest": "「around」を日本語でいうと何？",
+        "choice": [
+            "単に",
+            "普通に",
+            "周りに",
+            "直角に"
+        ],
+        "answer": "周りに"
+    },
+    {
+        "quest": "「regularly」を日本語でいうと何？",
+        "choice": [
+            "規則正しく",
+            "準備",
+            "整頓",
+            "夜ふかし"
+        ],
+        "answer": "規則正しく"
+    },
+    {
+        "quest": "英語の「carry over」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "値切る",
+            "思いつく",
+            "我慢する",
+            "持ち越す"
+        ],
+        "answer": "持ち越す"
+    },
+    {
+        "quest": "陸上競技で、障害物競走を表す略称SCは、次の英単語のうちどれに当てはまる？",
+        "choice": [
+            "StepChase",
+            "SteelChase",
+            "StapleChase",
+            "SteepleChase"
+        ],
+        "answer": "SteepleChase"
+    },
+    {
+        "quest": "「～の」を英語でいうと何？",
+        "choice": [
+            "into",
+            "under",
+            "over",
+            "of"
+        ],
+        "answer": "of"
+    },
+    {
+        "quest": "「北西」を英語でいうと何？",
+        "choice": [
+            "southeast",
+            "southwest",
+            "northwest",
+            "northeast"
+        ],
+        "answer": "northwest",
+        "write": 1
+    },
+    {
+        "quest": "「shot」を日本語でいうと何？",
+        "choice": [
+            "着陸",
+            "発射",
+            "離陸",
+            "上陸"
+        ],
+        "answer": "発射"
+    },
+    {
+        "quest": "「earth」を日本語でいうと何？",
+        "choice": [
+            "太陽",
+            "地球",
+            "火星",
+            "月"
+        ],
+        "answer": "地球"
+    },
+    {
+        "quest": "英語で「dump」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "ぼろ家",
+            "大成功",
+            "高価なもの",
+            "へそくり"
+        ],
+        "answer": "ぼろ家"
+    },
+    {
+        "quest": "「～を用意する」を英語でいうと何？",
+        "choice": [
+            "prepare",
+            "forget",
+            "remember",
+            "recall"
+        ],
+        "answer": "prepare"
+    },
+    {
+        "quest": "「at loose ends」を日本語でいうと何？",
+        "choice": [
+            "必要に応じて",
+            "未解決のまま",
+            "一度に",
+            "対立して"
+        ],
+        "answer": "未解決のまま"
+    },
+    {
+        "quest": "「memorial」を日本語でいうと何？",
+        "choice": [
+            "美術館",
+            "水族館",
+            "記念館",
+            "図書館"
+        ],
+        "answer": "記念館"
+    },
+    {
+        "quest": "「ink」を日本語でいうと何？",
+        "choice": [
+            "墨",
+            "茶",
+            "白",
+            "黒"
+        ],
+        "answer": "墨"
+    },
+    {
+        "quest": "「able」を日本語でいうと何？",
+        "choice": [
+            "有能",
+            "悲劇",
+            "無能",
+            "元気"
+        ],
+        "answer": "有能"
+    },
+    {
+        "quest": "英語で「suck」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "不愉快",
+            "疲れた",
+            "忙しい",
+            "楽しい"
+        ],
+        "answer": "不愉快"
+    },
+    {
+        "quest": "「meet」を日本語でいうと何？",
+        "choice": [
+            "保つ",
+            "泣く",
+            "外す",
+            "会う"
+        ],
+        "answer": "会う"
+    },
+    {
+        "quest": "小説や戯曲の「独白」を英語ていうと「monologue」ですが、「対話」を英語でいうと何？",
+        "choice": [
+            "epilogue",
+            "prologue",
+            "dialogue",
+            "monologue"
+        ],
+        "answer": "dialogue",
+        "write": 1
+    },
+    {
+        "quest": "「複雑にする」を英語でいうと何？",
+        "choice": [
+            "computer",
+            "complicate",
+            "complain",
+            "communicate"
+        ],
+        "answer": "complicate"
+    },
+    {
+        "quest": "「cunning」はどういう意味?",
+        "choice": [
+            "まねごと",
+            "盗み",
+            "のぞき見",
+            "ずる賢さ"
+        ],
+        "answer": "ずる賢さ"
+    },
+    {
+        "quest": "「ナツメヤシの実」は英語でどれ?",
+        "choice": [
+            "date",
+            "temple",
+            "ball",
+            "die"
+        ],
+        "answer": "date"
+    },
+    {
+        "quest": "英語で「juiced」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "魅力的な",
+            "未熟な",
+            "回復した",
+            "酔っぱらった"
+        ],
+        "answer": "酔っぱらった"
+    },
+    {
+        "quest": "「まな板」を英語でいうと何？",
+        "choice": [
+            "frying pan",
+            "pressure cooker",
+            "ladle",
+            "cutting board"
+        ],
+        "answer": "cutting board"
+    },
+    {
+        "quest": "「sometime」を日本語でいうと何？",
+        "choice": [
+            "足りない",
+            "ぴったり",
+            "ちょうど",
+            "いつか"
+        ],
+        "answer": "いつか"
+    },
+    {
+        "quest": "「不平を言う」を英語でいうと何？",
+        "choice": [
+            "communicate",
+            "computer",
+            "complain",
+            "complicate"
+        ],
+        "answer": "complain"
+    },
+    {
+        "quest": "「～の間中」を英語でいうと何？",
+        "choice": [
+            "during",
+            "until",
+            "after",
+            "before"
+        ],
+        "answer": "during"
+    },
+    {
+        "quest": "英語の「get a grip on」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "利益が出る",
+            "自白する",
+            "一位になる",
+            "把握する"
+        ],
+        "answer": "把握する"
+    },
+    {
+        "quest": "「house for sale」を日本語でいうと何？",
+        "choice": [
+            "売り家",
+            "買い家",
+            "廃墟",
+            "廃屋"
+        ],
+        "answer": "売り家"
+    },
+    {
+        "quest": "次のうち、「urban」の反対の意味の単語はどれ？",
+        "choice": [
+            "royal",
+            "rule",
+            "roll",
+            "rural"
+        ],
+        "answer": "rural"
+    },
+    {
+        "quest": "「古い」を英語でいうと何？",
+        "choice": [
+            "revival",
+            "new",
+            "return",
+            "old"
+        ],
+        "answer": "old",
+        "write": 1
+    },
+    {
+        "quest": "もともとは「陶工」という意味である、英語圏に多い名字は次のどれ？",
+        "choice": [
+            "カーペンター",
+            "アンダーソン",
+            "スミス",
+            "ポッター"
+        ],
+        "answer": "ポッター"
+    },
+    {
+        "quest": "「ハクチョウ」を英語でいうと何？",
+        "choice": [
+            "falcon",
+            "lark",
+            "swan",
+            "pigeon"
+        ],
+        "answer": "swan",
+        "write": 1
+    },
+    {
+        "quest": "次のうち、陸上競技で競技に欠場したことを表す略称DNSを略さずに言うとどれ？",
+        "choice": [
+            "Do Not Save",
+            "Do Not Signal",
+            "Do Not Short",
+            "Do Not Start"
+        ],
+        "answer": "Do Not Start"
+    },
+    {
+        "quest": "FAXとも言われるファクシミリ。英語の綴りは?",
+        "choice": [
+            "faximile",
+            "faccimily",
+            "facimille",
+            "facsimile"
+        ],
+        "answer": "facsimile"
+    },
+    {
+        "quest": "「火」を英語でいうと何？",
+        "choice": [
+            "water",
+            "fire",
+            "gold",
+            "wood"
+        ],
+        "answer": "fire",
+        "write": 1
+    },
+    {
+        "quest": "「under one's thumb」を日本語でいうと何？",
+        "choice": [
+            "その時を待って",
+            "言いなりになって",
+            "小さくなって",
+            "適当に"
+        ],
+        "answer": "言いなりになって"
+    },
+    {
+        "quest": "「あなたの」を英語でいうと何？",
+        "choice": [
+            "her",
+            "my",
+            "your",
+            "his"
+        ],
+        "answer": "your"
+    },
+    {
+        "quest": "英語でのタイトルを『KNIVES OUT』というスマホゲームは何？",
+        "choice": [
+            "荒野行動",
+            "聖剣サバイバル",
+            "抜け忍",
+            "錬神のアストラル"
+        ],
+        "answer": "荒野行動"
+    },
+    {
+        "quest": "「go aboard」を日本語でいうと何？",
+        "choice": [
+            "外国にいく",
+            "留学する",
+            "出世する",
+            "乗船する"
+        ],
+        "answer": "乗船する"
+    },
+    {
+        "quest": "「fun」を日本語でいうと何？",
+        "choice": [
+            "気楽さ",
+            "面白さ",
+            "元気さ",
+            "逆さ"
+        ],
+        "answer": "面白さ"
+    },
+    {
+        "quest": "英語では「sea lion」という海の生物は何？",
+        "choice": [
+            "トド",
+            "アシカ",
+            "アザラシ",
+            "セイウチ"
+        ],
+        "answer": "アシカ",
+        "write": 4
+    },
+    {
+        "quest": "「リストラ」を略さずいうと何？",
+        "choice": [
+            "リストラクチャリング",
+            "リストラップ",
+            "リストラゼーション",
+            "リストラーニング"
+        ],
+        "answer": "リストラクチャリング"
+    },
+    {
+        "quest": "「ツル」を英語でいうと何？",
+        "choice": [
+            "albatross",
+            "crane",
+            "canary",
+            "duck"
+        ],
+        "answer": "crane",
+        "write": 1
+    },
+    {
+        "quest": "「弘法も筆の誤り」を英語で言うと登場する有名な古代ギリシア人は？",
+        "choice": [
+            "ソフォクレス",
+            "ソクラテス",
+            "ヘロドトス",
+            "ホメロス"
+        ],
+        "answer": "ホメロス"
+    },
+    {
+        "quest": "芳香で知られる植物「くちなし」の英語名はどれ?",
+        "choice": [
+            "magnolia",
+            "gardenia",
+            "iris",
+            "paeonia"
+        ],
+        "answer": "gardenia"
+    },
+    {
+        "quest": "英語で「cheapskate」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "試供品",
+            "けち",
+            "簡単なこと",
+            "お買い得"
+        ],
+        "answer": "けち"
+    },
+    {
+        "quest": "英語の「throw oneself into」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "あきらめる",
+            "変装する",
+            "打ち込む",
+            "危険を冒す"
+        ],
+        "answer": "打ち込む"
+    },
+    {
+        "quest": "次のうち、陸上競技で途中棄権したことを表す略称DNFを略さずに言うとどれ？",
+        "choice": [
+            "Do Not Fine",
+            "Do Not Finish",
+            "Do Not Flat",
+            "Do Not Fast"
+        ],
+        "answer": "Do Not Finish"
+    },
+    {
+        "quest": "英語で「Portuguese man-of-war」とも呼ばれる海の動物は？",
+        "choice": [
+            "ダツ",
+            "カツオノエボシ",
+            "アンボイナ",
+            "ジュゴン"
+        ],
+        "answer": "カツオノエボシ",
+        "write": 4
+    },
+    {
+        "quest": "英語の「a thorn in one's side」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "財産",
+            "悩みの種",
+            "幸運",
+            "相棒"
+        ],
+        "answer": "悩みの種"
+    },
+    {
+        "quest": "「sun」を日本語でいうと何？",
+        "choice": [
+            "太陽",
+            "息子",
+            "三",
+            "合計"
+        ],
+        "answer": "太陽"
+    },
+    {
+        "quest": "「砂漠」を意味する英単語はどれ?",
+        "choice": [
+            "desert",
+            "dessart",
+            "dessert",
+            "dezart"
+        ],
+        "answer": "desert"
+    },
+    {
+        "quest": "「学年」を英語でいうと何？",
+        "choice": [
+            "school",
+            "rank",
+            "grade",
+            "age"
+        ],
+        "answer": "grade",
+        "write": 1
+    },
+    {
+        "quest": "花のつぼみを乾燥させて香辛料とする「丁子」の英語名はどれ?",
+        "choice": [
+            "clove",
+            "cinnamon",
+            "nutmeg",
+            "saffron"
+        ],
+        "answer": "clove",
+        "write": 1
+    }
+]

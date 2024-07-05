@@ -1,0 +1,310 @@
+{
+    "スライム": [
+        {
+            "name": "普通のスライム",
+            "image": "GD_Slime(Green).png",
+            "hp": 10,
+            "atk": 1,
+            "size": 3
+        },
+        {
+            "name": "強そうなスライム",
+            "image": "GD_Slime(Red).png",
+            "hp": 16,
+            "atk": 2,
+            "size": 3
+        }
+    ],
+    "ウサギ": [
+        {
+            "name": "童話の主役のウサギ",
+            "image": "GD_Rabbit(White).png",
+            "hp": 4,
+            "atk": 1,
+            "size": 3
+        },
+        {
+            "name": "逆向するウサギ",
+            "image": "GD_Rabbit(Yellow).png",
+            "hp": 20,
+            "atk": 2,
+            "size": 3
+        },
+        {
+            "name": "ウサギのようなもの",
+            "image": "GD_Rabbit(Blue).png",
+            "hp": 2,
+            "atk": 13,
+            "size": 3
+        }
+    ],
+    "鳥": [
+        {
+            "name": "幸せの青い鳥",
+            "image": "GD_Bird.png",
+            "hp": 6,
+            "atk": 4,
+            "size": 3
+        },
+        {
+            "name": "気性の荒い鳥",
+            "image": "GD_Bird(Red).png",
+            "hp": 10,
+            "atk": 5,
+            "size": 3
+        },
+        {
+            "name": "嘗て伝説だった鳥",
+            "image": "GD_Bird(Rainbow).png",
+            "hp": 20,
+            "atk": 6,
+            "size": 3
+        }
+    ],
+    "ゴブリン": [
+        {
+            "name": "小心者のゴブリン",
+            "image": "GD_Goblin(Red).png",
+            "hp": 16,
+            "atk": 1,
+            "size": 3
+        },
+        {
+            "name": "虐めっ子のゴブリン",
+            "image": "GD_Goblin(Green).png",
+            "hp": 16,
+            "atk": 3,
+            "size": 3
+        },
+        {
+            "name": "気怠げなゴブリン",
+            "image": "GD_Goblin(Blue).png",
+            "hp": 24,
+            "atk": 3,
+            "size": 3
+        },
+        {
+            "name": "就職戦争の勝者",
+            "image": "GD_Goblin(Red).png",
+            "hp": 30,
+            "atk": 5,
+            "size": 3
+        }
+    ],
+    "ゴーレム": [
+        {
+            "name": "乾燥した土のゴーレム",
+            "image": "GD_Golem.png",
+            "hp": 40,
+            "atk": 2,
+            "size": 3
+        },
+        {
+            "name": "風化した石のゴーレム",
+            "image": "GD_Golem(Stone).png",
+            "hp": 30,
+            "atk": 4,
+            "size": 3
+        },
+        {
+            "name": "冬の風物詩のゴーレム",
+            "image": "GD_Golem(Ice).png",
+            "hp": 10,
+            "atk": 12,
+            "size": 3
+        }
+    ],
+    "馬": [
+        {
+            "name": "気性が荒い馬",
+            "image": "GD_Horse.png",
+            "hp": 10,
+            "atk": 1,
+            "size": 3
+        },
+        {
+            "name": "犯罪者予備軍の馬",
+            "image": "GD_Horse(Unicorn).png",
+            "hp": 20,
+            "atk": 10,
+            "size": 3
+        },
+        {
+            "name": "空を飛ぶしか能がない馬",
+            "image": "GD_Horse(Pegasus).png",
+            "hp": 40,
+            "atk": 5,
+            "size": 3
+        }
+    ],
+    "犬": [
+        {
+            "name": "何処かの家の番犬",
+            "image": "GD_Kerberos.png",
+            "hp": 20,
+            "atk": 3,
+            "size": 3
+        },
+        {
+            "name": "神社の狛犬の親戚",
+            "image": "GD_Kerberos(White).png",
+            "hp": 30,
+            "atk": 6,
+            "size": 3
+        },
+        {
+            "name": "魔王さん家の小型犬",
+            "image": "GD_Kerberos(Purple).png",
+            "hp": 40,
+            "atk": 10,
+            "size": 3
+        },
+        {
+            "name": "世界を滅ぼした犬",
+            "image": "GD_Dog.png",
+            "hp": 60,
+            "atk": 20,
+            "size": 3
+        }
+    ],
+    "オーク": [
+        {
+            "name": "おはようを周囲に届けるオーク",
+            "image": "GD_Oak.png",
+            "hp": 20,
+            "atk": 11,
+            "size": 3
+        },
+        {
+            "name": "態度だけ大きなオーク",
+            "image": "GD_Oak(Yellow).png",
+            "hp": 40,
+            "atk": 2,
+            "size": 3
+        }
+    ],
+    "人間": [
+        {
+            "name": "拳で語らう男",
+            "image": "GD_Human_Male(Brown).png",
+            "hp": 20,
+            "atk": 8,
+            "size": 3
+        },
+        {
+            "name": "基本的人権の消失",
+            "image": "GD_Human_Male(DarkBlue).png",
+            "hp": 20,
+            "atk": 4,
+            "size": 3
+        },
+        {
+            "name": "金で地位を買う男",
+            "image": "GD_Human_Soldier.png",
+            "hp": 30,
+            "atk": 2,
+            "size": 3
+        },
+        {
+            "name": "戦う意思のないレイヤー",
+            "image": "GD_Human_Soldier2.png",
+            "hp": 5,
+            "atk": 20,
+            "size": 3
+        }
+    ],
+    "ヘビ": [
+        {
+            "name": "嘗て人を救った功績のあるヘビ",
+            "image": "GD_Snake(Green).png",
+            "hp": 20,
+            "atk": 0,
+            "size": 3
+        },
+        {
+            "name": "温厚な性格のヘビ",
+            "image": "GD_Snake(Purple).png",
+            "hp": 30,
+            "atk": 0,
+            "size": 3
+        },
+        {
+            "name": "ただのヘビ",
+            "image": "GD_Sea_Serpent.png",
+            "hp": 40,
+            "atk": 1,
+            "size": 3
+        }
+    ],
+    "バジリスク": [
+        {
+            "name": "始めて外に出たバジリスク",
+            "image": "GD_Basilisk.png",
+            "hp": 5,
+            "atk": 20,
+            "size": 3
+        },
+        {
+            "name": "自称ドラゴン",
+            "image": "GD_Basilisk(Red).png",
+            "hp": 30,
+            "atk": 5,
+            "size": 3
+        }
+    ],
+    "ドラゴン": [
+        {
+            "name": "部屋探しのドラゴン",
+            "image": "GD_BlackDragon.png",
+            "hp": 3,
+            "atk": 0,
+            "size": 3
+        },
+        {
+            "name": "ドラゴンに似た蜥蜴",
+            "image": "GD_Dragon.png",
+            "hp": 60,
+            "atk": 5,
+            "size": 3
+        },
+        {
+            "name": "忘れられたドラゴン",
+            "image": "GD_DragonZombie.png",
+            "hp": 80,
+            "atk": 8,
+            "size": 3
+        },
+        {
+            "name": "魔王四天王の5人目",
+            "image": "GD_BlackDragon.png",
+            "hp": 80,
+            "atk": 10,
+            "size": 3
+        }
+    ],
+    "バハムート": [
+        {
+            "name": "口だけのクレーム客",
+            "image": "GD_Bahamut.png",
+            "hp": 60,
+            "atk": 10,
+            "size": 3
+        },
+        {
+            "name": "【町娘のペット】オオトカゲ",
+            "image": "GD_Bahamut(Silver).png",
+            "hp": 100,
+            "atk": 12,
+            "size": 3
+        }
+    ],
+    "ニワトリ": [
+        {
+            "name": "【お飾りの役職】魔王",
+            "image": "GD_Chicken.png",
+            "hp": 40,
+            "atk": 40,
+            "size": 3
+        }
+    ]
+}

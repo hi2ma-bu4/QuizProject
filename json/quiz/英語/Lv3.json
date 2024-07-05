@@ -1,0 +1,5011 @@
+[
+    {
+        "quest": "「smile」を日本語でいうと何？",
+        "choice": [
+            "ほほえみ",
+            "匂い",
+            "小さい",
+            "縮小"
+        ],
+        "answer": "ほほえみ"
+    },
+    {
+        "quest": "「舞踏会」の英訳はどれ？",
+        "choice": [
+            "temple",
+            "fine",
+            "ball",
+            "down"
+        ],
+        "answer": "ball"
+    },
+    {
+        "quest": "次のうち、「皮肉な」という意味の言葉はどれ？",
+        "choice": [
+            "antitypical",
+            "ironical",
+            "skeptical",
+            "whimsical"
+        ],
+        "answer": "ironical"
+    },
+    {
+        "quest": "英語で「bucks」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "敵",
+            "ドル",
+            "ゴミ",
+            "恋人"
+        ],
+        "answer": "ドル"
+    },
+    {
+        "quest": "1月から12月までを英語で書いた時、スペルが最も長いのは何月？",
+        "choice": [
+            "11月",
+            "10月",
+            "9月",
+            "12月"
+        ],
+        "answer": "9月"
+    },
+    {
+        "quest": "英語では「lapis lazuli」という、美しい青色の鉱石は何？",
+        "choice": [
+            "瑪瑙",
+            "翡翠",
+            "瑠璃",
+            "琥珀"
+        ],
+        "answer": "瑠璃"
+    },
+    {
+        "quest": "野球場にある、外野フェンス手前の区域を、「警告」という意味の英語で何という？",
+        "choice": [
+            "attention zone",
+            "warning zone",
+            "alert zone",
+            "lucky zone"
+        ],
+        "answer": "warning zone"
+    },
+    {
+        "quest": "英語の「spell out」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "呪う",
+            "細かく説明する",
+            "でたらめを言う",
+            "黙り込む"
+        ],
+        "answer": "細かく説明する"
+    },
+    {
+        "quest": "「take after」を日本語でいうと何？",
+        "choice": [
+            "似る",
+            "食べる",
+            "話しかける",
+            "壊す"
+        ],
+        "answer": "似る"
+    },
+    {
+        "quest": "次のうち、「domain」と似た意味の英単語はどれ？",
+        "choice": [
+            "terrorism",
+            "territory",
+            "terrible",
+            "terminal"
+        ],
+        "answer": "territory"
+    },
+    {
+        "quest": "「一枚のハム」を英語でいうと「a ○○○ of ham」。○○○は何？",
+        "choice": [
+            "slice",
+            "sleigh",
+            "slide",
+            "slime"
+        ],
+        "answer": "slice",
+        "write": 1
+    },
+    {
+        "quest": "「sticky」を日本語でいうと何？",
+        "choice": [
+            "ふわふわする",
+            "つるつるする",
+            "ねばねばする",
+            "ざらざらする"
+        ],
+        "answer": "ねばねばする"
+    },
+    {
+        "quest": "英語で「water lily」という植物は何？",
+        "choice": [
+            "百合",
+            "蓮華",
+            "睡蓮",
+            "鬯魃"
+        ],
+        "answer": "睡蓮"
+    },
+    {
+        "quest": "次のうち、「negative」の反対の意味の単語はどれ？",
+        "choice": [
+            "creative",
+            "conservative",
+            "alternative",
+            "affirmative"
+        ],
+        "answer": "affirmative"
+    },
+    {
+        "quest": "英語で「cross」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "年老いた",
+            "不機嫌な",
+            "忠実な",
+            "評判の"
+        ],
+        "answer": "不機嫌な"
+    },
+    {
+        "quest": "「回路」を英語では何という？",
+        "choice": [
+            "track",
+            "root",
+            "circuit",
+            "circle"
+        ],
+        "answer": "circuit",
+        "write": 1
+    },
+    {
+        "quest": "英語で「squad」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "マフィア",
+            "競争相手",
+            "仲良しグループ",
+            "家族"
+        ],
+        "answer": "仲良しグループ"
+    },
+    {
+        "quest": "「昨日の朝」を英語でいうと「○○○ morning」。○○○は何？",
+        "choice": [
+            "ago",
+            "yesterday",
+            "past",
+            "last"
+        ],
+        "answer": "yesterday",
+        "write": 1
+    },
+    {
+        "quest": "英文法で、英文の文型は、一般に、何種類に分類される？",
+        "choice": [
+            "1",
+            "5",
+            "4",
+            "3"
+        ],
+        "answer": "5",
+        "write": 2
+    },
+    {
+        "quest": "「manner」を日本語でいうと何？",
+        "choice": [
+            "問題",
+            "解決",
+            "方法",
+            "事件"
+        ],
+        "answer": "方法"
+    },
+    {
+        "quest": "「be impressed with」を日本語でいうと何？",
+        "choice": [
+            "借金する",
+            "賛成する",
+            "無視する",
+            "感動する"
+        ],
+        "answer": "感動する"
+    },
+    {
+        "quest": "次のうち、「motivation」と似た意味の英単語はどれ？",
+        "choice": [
+            "impressive",
+            "inactive",
+            "interactive",
+            "incentive"
+        ],
+        "answer": "incentive"
+    },
+    {
+        "quest": "英語で「倫理の欠如」を意味する、金融機関などが節度なく利益追求にはしることを指す言葉は何？",
+        "choice": [
+            "moral hazard",
+            "moral penalty",
+            "moral harassment",
+            "moral lost"
+        ],
+        "answer": "moral hazard"
+    },
+    {
+        "quest": "英語で「nail」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "徹夜する",
+            "成功する",
+            "予想する",
+            "失敗する"
+        ],
+        "answer": "成功する"
+    },
+    {
+        "quest": "「baseball」を日本語でいうと何？",
+        "choice": [
+            "籠球",
+            "庭球",
+            "撞球",
+            "野球"
+        ],
+        "answer": "野球"
+    },
+    {
+        "quest": "次のうち、英語で「鉄」を意味するのはironですが、「銅」を意味するのはどれ？",
+        "choice": [
+            "brass",
+            "iron",
+            "copper",
+            "steel"
+        ],
+        "answer": "copper"
+    },
+    {
+        "quest": "There's no accounting for taste. という諺を日本語で言うと何？",
+        "choice": [
+            "悪銭身につかず",
+            "早起きは三文の得",
+            "覆水盆に返らず",
+            "蓼食う虫も好き好き"
+        ],
+        "answer": "蓼食う虫も好き好き"
+    },
+    {
+        "quest": "「a good deal of」を日本語でいうと何？",
+        "choice": [
+            "前方の",
+            "かなりの",
+            "少しの",
+            "善良な"
+        ],
+        "answer": "かなりの"
+    },
+    {
+        "quest": "次のうち、「inform」と似た意味の英単語はどれ？",
+        "choice": [
+            "acquaint",
+            "acquire",
+            "acquit",
+            "acknowledge"
+        ],
+        "answer": "acquaint"
+    },
+    {
+        "quest": "「not long ago」を日本語でいうと何？",
+        "choice": [
+            "またあとで",
+            "短くして",
+            "先ごろ",
+            "ずっと前に"
+        ],
+        "answer": "先ごろ"
+    },
+    {
+        "quest": "1月から12月までを英語で書いたとき、文字数が最も多くなるのはどれ？",
+        "choice": [
+            "12月",
+            "9月",
+            "11月",
+            "2月"
+        ],
+        "answer": "9月"
+    },
+    {
+        "quest": "次のうち、英語で「黄銅」を意味するのはbrassですが、「鉄」を意味するのはどれ？",
+        "choice": [
+            "copper",
+            "brass",
+            "iron",
+            "steel"
+        ],
+        "answer": "iron"
+    },
+    {
+        "quest": "英語で「amp」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "悩ましい",
+            "飽きた",
+            "成長した",
+            "興奮した"
+        ],
+        "answer": "興奮した"
+    },
+    {
+        "quest": "次のうち、「advanced」の反対の意味の単語はどれ？",
+        "choice": [
+            "military",
+            "elementary",
+            "momentary",
+            "rotary"
+        ],
+        "answer": "elementary"
+    },
+    {
+        "quest": "英語の「go off half-cocked」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "交渉する",
+            "先走る",
+            "予測する",
+            "諦める"
+        ],
+        "answer": "先走る"
+    },
+    {
+        "quest": "次のうち、英語では「atom」という素粒子は原子ですが、「proton」はどれ？",
+        "choice": [
+            "中性子",
+            "原子",
+            "陽子",
+            "電子"
+        ],
+        "answer": "陽子"
+    },
+    {
+        "quest": "英語で「コミッティー」のつづりは何？",
+        "choice": [
+            "committee",
+            "commitee",
+            "committy",
+            "commity"
+        ],
+        "answer": "committee"
+    },
+    {
+        "quest": "次のうち、「exciting」の反対の意味の単語はどれ？",
+        "choice": [
+            "boring",
+            "bearing",
+            "bring",
+            "being"
+        ],
+        "answer": "boring"
+    },
+    {
+        "quest": "英語で「glitch」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "問題点",
+            "試験",
+            "改良",
+            "中古品"
+        ],
+        "answer": "問題点"
+    },
+    {
+        "quest": "英語で「vanilla」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "楽しい",
+            "着飾った",
+            "つまらない",
+            "高価な"
+        ],
+        "answer": "つまらない"
+    },
+    {
+        "quest": "次のうち、be動詞の過去分詞形はどれ？",
+        "choice": [
+            "been",
+            "was",
+            "is",
+            "being"
+        ],
+        "answer": "been"
+    },
+    {
+        "quest": "次のうち、「huge」と似た意味の英単語はどれ？",
+        "choice": [
+            "anonymous",
+            "ambiguous",
+            "famous",
+            "enormous"
+        ],
+        "answer": "enormous"
+    },
+    {
+        "quest": "英語の「bite one's tongue」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "男気を見せる",
+            "ほらを吹く",
+            "口を慎む",
+            "無茶をする"
+        ],
+        "answer": "口を慎む"
+    },
+    {
+        "quest": "英語で「なまけもの」という意味がある、簡単に履ける革靴の一種は何？",
+        "choice": [
+            "sandal",
+            "boot",
+            "loafer",
+            "sneaker"
+        ],
+        "answer": "loafer"
+    },
+    {
+        "quest": "英語の「come out of the closet」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "無理をする",
+            "出世する",
+            "使い果たす",
+            "公にする"
+        ],
+        "answer": "公にする"
+    },
+    {
+        "quest": "「from scratch」を日本語でいうと何？",
+        "choice": [
+            "最初から",
+            "ときどき",
+            "転々と",
+            "一生"
+        ],
+        "answer": "最初から"
+    },
+    {
+        "quest": "「kind of」を日本語でいうと何？",
+        "choice": [
+            "むずかしい",
+            "たくさんある",
+            "ある程度",
+            "目新しい"
+        ],
+        "answer": "ある程度"
+    },
+    {
+        "quest": "平面図形を英語でいったとき、「square」は正方形ですが、「trapezoid」はどんな図形？",
+        "choice": [
+            "長方形",
+            "正方形",
+            "台形",
+            "平行四辺形"
+        ],
+        "answer": "台形"
+    },
+    {
+        "quest": "「beard」を日本語でいうと何？",
+        "choice": [
+            "すね毛",
+            "髪の毛",
+            "まゆ毛",
+            "あごひげ"
+        ],
+        "answer": "あごひげ"
+    },
+    {
+        "quest": "英語の「dog's breakfast」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "簡単なこと",
+            "取るに足らない",
+            "速い",
+            "めちゃくちゃ"
+        ],
+        "answer": "めちゃくちゃ"
+    },
+    {
+        "quest": "「国会」を英語でいうと何？",
+        "choice": [
+            "diet",
+            "exercise",
+            "calorie",
+            "rebound"
+        ],
+        "answer": "diet"
+    },
+    {
+        "quest": "英語の「stop the show」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "あきらめる",
+            "災難がふりかかる",
+            "大失敗する",
+            "大好評を博す"
+        ],
+        "answer": "大好評を博す"
+    },
+    {
+        "quest": "「サンタクロース」英語の綴りは？",
+        "choice": [
+            "Santa Claus",
+            "Santa Crous",
+            "Saint Nicholas",
+            "Santha Cloth"
+        ],
+        "answer": "Santa Claus"
+    },
+    {
+        "quest": "今日では環境保護の意味合いでで使われる例の多い「ecology」は、元々どんな学問を意味する？",
+        "choice": [
+            "生態学",
+            "分類学",
+            "進化学",
+            "環境学"
+        ],
+        "answer": "生態学"
+    },
+    {
+        "quest": "英語で「crash」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "遊ぶ",
+            "食べる",
+            "大笑いする",
+            "泊まる"
+        ],
+        "answer": "泊まる"
+    },
+    {
+        "quest": "英語で「dunno」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "知らない",
+            "調子がいい",
+            "笑える",
+            "今すぐ"
+        ],
+        "answer": "知らない"
+    },
+    {
+        "quest": "「口ひげ」を英語でいうと何？",
+        "choice": [
+            "dimple",
+            "pimple",
+            "jaw",
+            "mustache"
+        ],
+        "answer": "mustache"
+    },
+    {
+        "quest": "企業などが行う社会貢献活動を英語で何という？",
+        "choice": [
+            "voluntary",
+            "restructure",
+            "philanthropy",
+            "default"
+        ],
+        "answer": "philanthropy"
+    },
+    {
+        "quest": "ラグビーの試合で、「副主将」のことを英語で何という？",
+        "choice": [
+            "byse captain",
+            "vice captain",
+            "vise captain",
+            "byce captain"
+        ],
+        "answer": "vice captain"
+    },
+    {
+        "quest": "英語で「hoops」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "野球",
+            "アイスホッケー",
+            "アメフト",
+            "バスケットボール"
+        ],
+        "answer": "バスケットボール"
+    },
+    {
+        "quest": "「throw up」を日本語でいうと何？",
+        "choice": [
+            "吐く",
+            "咳をする",
+            "くしゃみする",
+            "熱が出る"
+        ],
+        "answer": "吐く"
+    },
+    {
+        "quest": "「food」を日本語でいうと何？",
+        "choice": [
+            "植物",
+            "野菜",
+            "食べ物",
+            "果物"
+        ],
+        "answer": "食べ物"
+    },
+    {
+        "quest": "「push up daisies」を日本語でいうと何？",
+        "choice": [
+            "選び出す",
+            "目標をあげる",
+            "埋葬されている",
+            "評価されている"
+        ],
+        "answer": "埋葬されている"
+    },
+    {
+        "quest": "不適切な発言を避け、中立的な表現を用いることを指す言葉「political ○○○」。○○○は何？",
+        "choice": [
+            "correctness",
+            "borderless",
+            "valueless",
+            "cureless"
+        ],
+        "answer": "correctness"
+    },
+    {
+        "quest": "ワイシャツなどの衣服の袖口布のことを英語で何という？",
+        "choice": [
+            "collar",
+            "cuff",
+            "sleeve",
+            "hemline"
+        ],
+        "answer": "cuff"
+    },
+    {
+        "quest": "英語の「do one's number」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "演じる",
+            "操る",
+            "記憶する",
+            "計算する"
+        ],
+        "answer": "演じる"
+    },
+    {
+        "quest": "「bear on」を日本語でいうと何？",
+        "choice": [
+            "殴りつける",
+            "のしかかる",
+            "そっと歩く",
+            "成長する"
+        ],
+        "answer": "のしかかる"
+    },
+    {
+        "quest": "英語で「catnap」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "寝起き",
+            "タヌキ寝入り",
+            "仮眠",
+            "深く眠る"
+        ],
+        "answer": "仮眠"
+    },
+    {
+        "quest": "「adhere to」を日本語でいうと何？",
+        "choice": [
+            "文句を言う",
+            "賞賛する",
+            "演じる",
+            "付着する"
+        ],
+        "answer": "付着する"
+    },
+    {
+        "quest": "英語の「take a hand in」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "参加する",
+            "強奪する",
+            "助けを借りる",
+            "適当にあしらう"
+        ],
+        "answer": "参加する"
+    },
+    {
+        "quest": "英語で「アグレッシブ」のつづりは何？",
+        "choice": [
+            "agressive",
+            "aggresive",
+            "aggrressive",
+            "aggressive"
+        ],
+        "answer": "aggressive",
+        "write": 1
+    },
+    {
+        "quest": "「convention」を日本語でいうと何？",
+        "choice": [
+            "相続",
+            "しきたり",
+            "遺書",
+            "逝去"
+        ],
+        "answer": "しきたり"
+    },
+    {
+        "quest": "「invent」を日本語でいうと何？",
+        "choice": [
+            "保持する",
+            "破壊する",
+            "印刷する",
+            "発明する"
+        ],
+        "answer": "発明する"
+    },
+    {
+        "quest": "英語の「a shot in the dark」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "奇襲攻撃",
+            "泥酔",
+            "当てずっぽう",
+            "予想外の出来事"
+        ],
+        "answer": "当てずっぽう"
+    },
+    {
+        "quest": "英語で「jazzy」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "陰気な",
+            "酔っ払った",
+            "古びた",
+            "華やかな"
+        ],
+        "answer": "華やかな"
+    },
+    {
+        "quest": "「contest」を日本語でいうと何？",
+        "choice": [
+            "秘技",
+            "特技",
+            "競技",
+            "小枝"
+        ],
+        "answer": "競技"
+    },
+    {
+        "quest": "説明責任を意味する言葉「アカウンタビリティー」。正しい英単語の綴りは？",
+        "choice": [
+            "akauntability",
+            "accountabirity",
+            "acountability",
+            "accountability"
+        ],
+        "answer": "accountability",
+        "write": 1
+    },
+    {
+        "quest": "次のうち、英語では「neutron」という素粒子は中性子ですが、「atom」はどれ？",
+        "choice": [
+            "電子",
+            "原子",
+            "中性子",
+            "陽子"
+        ],
+        "answer": "原子"
+    },
+    {
+        "quest": "英語で「カレンダー」のつづりは何？",
+        "choice": [
+            "carender",
+            "calendar",
+            "carendar",
+            "calender"
+        ],
+        "answer": "calendar",
+        "write": 1
+    },
+    {
+        "quest": "「アンコウ」を英語でいうと何？",
+        "choice": [
+            "shark",
+            "anglerfish",
+            "sardine",
+            "salmon"
+        ],
+        "answer": "anglerfish",
+        "write": 1
+    },
+    {
+        "quest": "「朝飯前」を英語で言ったとき、出てくる食べ物は何？",
+        "choice": [
+            "ホットドッグ",
+            "サンドイッチ",
+            "ケーキ",
+            "チーズ"
+        ],
+        "answer": "ケーキ"
+    },
+    {
+        "quest": "英語の「worlds apart」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "幸運な",
+            "絶望する",
+            "まるで異なる",
+            "世界的に有名な"
+        ],
+        "answer": "まるで異なる"
+    },
+    {
+        "quest": "英語の「go into a tailspin」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "やる気がなくなる",
+            "難しいことをやる",
+            "見せつける",
+            "大騒ぎする"
+        ],
+        "answer": "やる気がなくなる"
+    },
+    {
+        "quest": "「go on a trip」を日本語でいうと何？",
+        "choice": [
+            "つまずく",
+            "旅行に行く",
+            "跳びはねる",
+            "散歩する"
+        ],
+        "answer": "旅行に行く"
+    },
+    {
+        "quest": "「新学期」を英語でいうと何？",
+        "choice": [
+            "go-to-school",
+            "back-to-school",
+            "over-to-school",
+            "went-to-school"
+        ],
+        "answer": "back-to-school"
+    },
+    {
+        "quest": "「bump into」を日本語でいうと何？",
+        "choice": [
+            "ばったり出会う",
+            "築き上げる",
+            "保護する",
+            "束ねる"
+        ],
+        "answer": "ばったり出会う"
+    },
+    {
+        "quest": "英語で「picnic」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "サボること",
+            "軽く食べること",
+            "楽な仕事",
+            "密会"
+        ],
+        "answer": "楽な仕事"
+    },
+    {
+        "quest": "英語の「take air」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "知れ渡る",
+            "演じる",
+            "生き返る",
+            "落ち着く"
+        ],
+        "answer": "知れ渡る"
+    },
+    {
+        "quest": "英語の「hold off」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "延期する",
+            "手助けする",
+            "抱きしめる",
+            "耐え忍ぶ"
+        ],
+        "answer": "延期する"
+    },
+    {
+        "quest": "英語で「seaweed」というのは何？",
+        "choice": [
+            "海豚",
+            "海苔",
+            "海葡萄",
+            "海鼠"
+        ],
+        "answer": "海苔"
+    },
+    {
+        "quest": "英語で「bird」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "若い女性",
+            "嘘つき",
+            "現金",
+            "赤ちゃん"
+        ],
+        "answer": "若い女性"
+    },
+    {
+        "quest": "英語の「hard by」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "困難な",
+            "安物の",
+            "不親切な",
+            "すぐ近くの"
+        ],
+        "answer": "すぐ近くの"
+    },
+    {
+        "quest": "「dandelion」を日本語でいうと何？",
+        "choice": [
+            "キク",
+            "ユリ",
+            "ヒマワリ",
+            "タンポポ"
+        ],
+        "answer": "タンポポ",
+        "write": 4
+    },
+    {
+        "quest": "「売り込む」を英語でいうと何？",
+        "choice": [
+            "protect",
+            "promote",
+            "provide",
+            "process"
+        ],
+        "answer": "promote"
+    },
+    {
+        "quest": "「well off」を日本語でいうと何？",
+        "choice": [
+            "富裕な",
+            "休憩中",
+            "弱った",
+            "見た目が良い"
+        ],
+        "answer": "富裕な"
+    },
+    {
+        "quest": "次のうち、「受動的」を意味する英語はどれ？",
+        "choice": [
+            "inactive",
+            "passive",
+            "positive",
+            "active"
+        ],
+        "answer": "passive"
+    },
+    {
+        "quest": "次のプロボクシングの階級のうち、英語で「チャボ」という意味があるのはどれ？",
+        "choice": [
+            "lightweight",
+            "bantamweight",
+            "featherweight",
+            "flyweight"
+        ],
+        "answer": "bantamweight"
+    },
+    {
+        "quest": "次のうち、英語で「銅」を意味するのはcopperですが、「鉄」を意味するのはどれ？",
+        "choice": [
+            "brass",
+            "steel",
+            "iron",
+            "copper"
+        ],
+        "answer": "iron"
+    },
+    {
+        "quest": "次のうち、英語では「electron」という素粒子は電子ですが、「proton」はどれ？",
+        "choice": [
+            "中性子",
+            "陽子",
+            "電子",
+            "原子"
+        ],
+        "answer": "陽子"
+    },
+    {
+        "quest": "次のうち、「lack」の反対の意味の単語はどれ？",
+        "choice": [
+            "abundance",
+            "abandon",
+            "abyss",
+            "absurd"
+        ],
+        "answer": "abundance"
+    },
+    {
+        "quest": "「about 10 p.m.」を日本語でいうと何？",
+        "choice": [
+            "午後10時ちょうど",
+            "午後10時までに",
+            "午後10時ごろ",
+            "午後10時から"
+        ],
+        "answer": "午後10時ごろ"
+    },
+    {
+        "quest": "英語の「eat crow」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "誤りを認める",
+            "賭けをする",
+            "不思議に思う",
+            "死期が近づく"
+        ],
+        "answer": "誤りを認める"
+    },
+    {
+        "quest": "「all thumbs」を日本語でいうと何？",
+        "choice": [
+            "怒り狂って",
+            "不器用な",
+            "全般的に",
+            "調子よく"
+        ],
+        "answer": "不器用な"
+    },
+    {
+        "quest": "「drop in」を日本語でいうと何？",
+        "choice": [
+            "立ち寄る",
+            "飲み干す",
+            "紛失する",
+            "溺れる"
+        ],
+        "answer": "立ち寄る"
+    },
+    {
+        "quest": "「叩く」を英語でいうと何？",
+        "choice": [
+            "drain",
+            "fold",
+            "beat",
+            "wet"
+        ],
+        "answer": "beat"
+    },
+    {
+        "quest": "「袋」を英語でいうと何？",
+        "choice": [
+            "chair",
+            "check",
+            "road",
+            "pocket"
+        ],
+        "answer": "pocket"
+    },
+    {
+        "quest": "「Yes，I have a number」という語呂合わせで覚える数値といえば何？",
+        "choice": [
+            "ルート3",
+            "ネイピア数",
+            "円周率",
+            "ルート2"
+        ],
+        "answer": "円周率"
+    },
+    {
+        "quest": "「beef up」を日本語でいうと何？",
+        "choice": [
+            "嫉妬する",
+            "強化する",
+            "苦労する",
+            "暗記する"
+        ],
+        "answer": "強化する"
+    },
+    {
+        "quest": "次のうち、英語の「to不定詞」の三大用法に含まれないものはどれ？",
+        "choice": [
+            "名詞的用法",
+            "副詞的用法",
+            "冠詞的用法",
+            "形容詞的用法"
+        ],
+        "answer": "冠詞的用法"
+    },
+    {
+        "quest": "英語の「run the show」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "取り仕切る",
+            "締めくくる",
+            "宣伝する",
+            "台無しにする"
+        ],
+        "answer": "取り仕切る"
+    },
+    {
+        "quest": "ウリ科植物ズッキーニを英語で書くと、次のうちどれ?",
+        "choice": [
+            "zucchini",
+            "duquini",
+            "dzukinich",
+            "zukkini"
+        ],
+        "answer": "zucchini"
+    },
+    {
+        "quest": "英語では「sodium」という元素は何？",
+        "choice": [
+            "リチウム",
+            "ルビジウム",
+            "カリウム",
+            "ナトリウム"
+        ],
+        "answer": "ナトリウム",
+        "write": 4
+    },
+    {
+        "quest": "英語で「gang」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "子供",
+            "トランプ",
+            "大問題",
+            "仲間"
+        ],
+        "answer": "仲間"
+    },
+    {
+        "quest": "「試験」を英語でいうと何？",
+        "choice": [
+            "example",
+            "exit",
+            "exam",
+            "excuse"
+        ],
+        "answer": "exam"
+    },
+    {
+        "quest": "英語では「potassium」という元素は何？",
+        "choice": [
+            "カリウム",
+            "ルビジウム",
+            "リチウム",
+            "ナトリウム"
+        ],
+        "answer": "カリウム"
+    },
+    {
+        "quest": "英語の「the short end of the stick」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "珍しいこと",
+            "笑い話",
+            "貧乏くじ",
+            "絶体絶命"
+        ],
+        "answer": "貧乏くじ"
+    },
+    {
+        "quest": "英語の「on the off chance」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "万一に備えて",
+            "これ以上ない好機",
+            "五分五分",
+            "全く見込みがない"
+        ],
+        "answer": "万一に備えて"
+    },
+    {
+        "quest": "「～する機会がある」を英語でいうと「have a ○○○ to do」。○○○は何？",
+        "choice": [
+            "chain",
+            "chat",
+            "chance",
+            "challenge"
+        ],
+        "answer": "chance"
+    },
+    {
+        "quest": "「debate」を日本語でいうと何？",
+        "choice": [
+            "討論する",
+            "対話する",
+            "退治する",
+            "抗議する"
+        ],
+        "answer": "討論する"
+    },
+    {
+        "quest": "『Give me five!』とは、何という意味？",
+        "choice": [
+            "万歳",
+            "ハイタッチ",
+            "ガッツポーズ",
+            "握手"
+        ],
+        "answer": "ハイタッチ"
+    },
+    {
+        "quest": "「綱引き」のことを英語で何という？",
+        "choice": [
+            "tag of play",
+            "tug of battle",
+            "tag of match",
+            "tag of war"
+        ],
+        "answer": "tag of war"
+    },
+    {
+        "quest": "英語の「in the flesh」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "加工していない",
+            "まん丸の",
+            "腹が減って",
+            "実物の"
+        ],
+        "answer": "実物の"
+    },
+    {
+        "quest": "「break one's neck」を日本語でいうと何？",
+        "choice": [
+            "激怒する",
+            "失敗する",
+            "努力する",
+            "暴力を振るう"
+        ],
+        "answer": "努力する"
+    },
+    {
+        "quest": "ニュースによく登場する「GDP」とは日本語で何のこと？",
+        "choice": [
+            "国民総生産",
+            "国内総支出",
+            "国民総所得",
+            "国内総生産"
+        ],
+        "answer": "国内総生産"
+    },
+    {
+        "quest": "子供が出来てから結婚することをおめでた婚といいますが、アメリカでは何という?",
+        "choice": [
+            "pistol marriage",
+            "diamond marriage",
+            "shotgun marriage",
+            "missile marriage"
+        ],
+        "answer": "shotgun marriage"
+    },
+    {
+        "quest": "「気前のよい」を英語でいうと何？",
+        "choice": [
+            "generous",
+            "gender",
+            "genuine",
+            "general"
+        ],
+        "answer": "generous"
+    },
+    {
+        "quest": "｢be indifferent to｣を日本語でいうと何？",
+        "choice": [
+            "欠かせない",
+            "傾向がある",
+            "優位である",
+            "無関心である"
+        ],
+        "answer": "無関心である"
+    },
+    {
+        "quest": "英語の「cry one's eyes out」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "涙ぐむ",
+            "もらい泣きする",
+            "激しく泣く",
+            "嘘泣きをする"
+        ],
+        "answer": "激しく泣く"
+    },
+    {
+        "quest": "「without reserve」を日本語でいうと何？",
+        "choice": [
+            "時間に遅れて",
+            "一人で",
+            "急に思いついて",
+            "率直に"
+        ],
+        "answer": "率直に"
+    },
+    {
+        "quest": "英語の「take a brief」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "法案を提出する",
+            "吸収合併する",
+            "不当解雇する",
+            "訴訟を引き受ける"
+        ],
+        "answer": "訴訟を引き受ける"
+    },
+    {
+        "quest": "「billion」を日本語でいうと何？",
+        "choice": [
+            "千億",
+            "百億",
+            "十億",
+            "一億"
+        ],
+        "answer": "十億"
+    },
+    {
+        "quest": "「distribute」を日本語でいうと何？",
+        "choice": [
+            "測る",
+            "断る",
+            "折る",
+            "配る"
+        ],
+        "answer": "配る"
+    },
+    {
+        "quest": "主要国の中央銀行の総裁が集まるG7、G8などの「G」はどんな単語の頭文字？",
+        "choice": [
+            "global",
+            "giant",
+            "group",
+            "great"
+        ],
+        "answer": "group",
+        "write": 1
+    },
+    {
+        "quest": "「tear down」を日本語でいうと何？",
+        "choice": [
+            "書きなぐる",
+            "取り壊す",
+            "疲れ切る",
+            "号泣する"
+        ],
+        "answer": "取り壊す"
+    },
+    {
+        "quest": "「手に入らないものを追い求める」を英語でいうと「chase ○○○」。○○○は何？",
+        "choice": [
+            "whales",
+            "rainbows",
+            "diamonds",
+            "moon"
+        ],
+        "answer": "rainbows"
+    },
+    {
+        "quest": "アメリカの首都、ワシントンD.C.の「C」は、何という言葉の頭文字？",
+        "choice": [
+            "China",
+            "Cuba",
+            "Columbia",
+            "Canada"
+        ],
+        "answer": "Columbia"
+    },
+    {
+        "quest": "次のうち、英語で「銅」を意味するのはどれ？",
+        "choice": [
+            "steel",
+            "copper",
+            "brass",
+            "iron"
+        ],
+        "answer": "copper"
+    },
+    {
+        "quest": "次のうち、英語で「銅」を意味するのはcopperですが、「黄銅」を意味するのはどれ？",
+        "choice": [
+            "copper",
+            "brass",
+            "steel",
+            "iron"
+        ],
+        "answer": "brass"
+    },
+    {
+        "quest": "ホテルの「スイートルーム」の正しい綴りは「○○○ room」。○○○は何",
+        "choice": [
+            "sweet",
+            "suito",
+            "suite",
+            "swuit"
+        ],
+        "answer": "suite",
+        "write": 1
+    },
+    {
+        "quest": "英語で「dude」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "噂",
+            "人",
+            "やっかい",
+            "敵"
+        ],
+        "answer": "人"
+    },
+    {
+        "quest": "英語で「basic」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "面白くない",
+            "研修",
+            "若々しい",
+            "小学校"
+        ],
+        "answer": "面白くない"
+    },
+    {
+        "quest": "「ghost」を日本語でいうと何？",
+        "choice": [
+            "罠",
+            "幽霊",
+            "ヤギ",
+            "巨人"
+        ],
+        "answer": "幽霊"
+    },
+    {
+        "quest": "「Let me see」を日本語でいうと何？",
+        "choice": [
+            "ようこそ",
+            "こんにちは",
+            "ええと",
+            "どうして"
+        ],
+        "answer": "ええと"
+    },
+    {
+        "quest": "「lay off」を日本語でいうと何？",
+        "choice": [
+            "一時解雇する",
+            "上場する",
+            "借金を返済する",
+            "昇進する"
+        ],
+        "answer": "一時解雇する"
+    },
+    {
+        "quest": "「～までに」を英語でいうと何？",
+        "choice": [
+            "for",
+            "at",
+            "to",
+            "by"
+        ],
+        "answer": "by"
+    },
+    {
+        "quest": "「figure out」を日本語でいうと何？",
+        "choice": [
+            "記録する",
+            "食事する",
+            "恥ずかしがる",
+            "分かる"
+        ],
+        "answer": "分かる"
+    },
+    {
+        "quest": "英語で「statistics」という学問の分野は？",
+        "choice": [
+            "民俗学",
+            "人類学",
+            "考古学",
+            "統計学"
+        ],
+        "answer": "統計学"
+    },
+    {
+        "quest": "英語で「tragedy」といえば、次のうち何のこと？",
+        "choice": [
+            "歌劇",
+            "喜劇",
+            "新劇",
+            "悲劇"
+        ],
+        "answer": "悲劇"
+    },
+    {
+        "quest": "「歩く」を英語でいうと何？",
+        "choice": [
+            "speed",
+            "fast",
+            "walk",
+            "slow"
+        ],
+        "answer": "walk",
+        "write": 1
+    },
+    {
+        "quest": "英語の「play hell with」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "台無しにする",
+            "裏切る",
+            "実権を握る",
+            "とことん楽しむ"
+        ],
+        "answer": "台無しにする"
+    },
+    {
+        "quest": "次のうち、英語で「鉄」を意味するのはironですが、「鋼」を意味するのはどれ？",
+        "choice": [
+            "iron",
+            "steel",
+            "brass",
+            "copper"
+        ],
+        "answer": "steel"
+    },
+    {
+        "quest": "英語で「beat」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "お金持ち",
+            "ありきたりの",
+            "精力的な",
+            "疲れきった"
+        ],
+        "answer": "疲れきった"
+    },
+    {
+        "quest": "「着く」を英語でいうと「arrive ○○」。○○は何？",
+        "choice": [
+            "up",
+            "at",
+            "on",
+            "in"
+        ],
+        "answer": "at"
+    },
+    {
+        "quest": "英語の「cash cow」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "もうかる事業",
+            "副業",
+            "裏金",
+            "役立たず"
+        ],
+        "answer": "もうかる事業"
+    },
+    {
+        "quest": "次のうち、「responsibility」と似た意味の英単語はどれ？",
+        "choice": [
+            "ability",
+            "possibility",
+            "liability",
+            "flexibility"
+        ],
+        "answer": "liability"
+    },
+    {
+        "quest": "「be accustomed to」を日本語でいうと何？",
+        "choice": [
+            "慣れている",
+            "似ている",
+            "中毒している",
+            "苦労する"
+        ],
+        "answer": "慣れている"
+    },
+    {
+        "quest": "英単語「book」の動詞としての意味は何？",
+        "choice": [
+            "教える",
+            "予約する",
+            "暗記する",
+            "食事する"
+        ],
+        "answer": "予約する"
+    },
+    {
+        "quest": "寸劇のことを英語で何という？",
+        "choice": [
+            "skit",
+            "comedy",
+            "story",
+            "drama"
+        ],
+        "answer": "skit"
+    },
+    {
+        "quest": "「zero hour」を日本語でいうと何？",
+        "choice": [
+            "常に",
+            "決定的瞬間",
+            "夜明け前",
+            "極めて忙しい"
+        ],
+        "answer": "決定的瞬間"
+    },
+    {
+        "quest": "英語で「live」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "多忙な",
+            "口うるさい",
+            "野蛮な",
+            "かっこいい"
+        ],
+        "answer": "かっこいい"
+    },
+    {
+        "quest": "英語で「capital letter」といえば、次のうち何のこと？",
+        "choice": [
+            "小文字",
+            "古文字",
+            "大文字",
+            "新文字"
+        ],
+        "answer": "大文字"
+    },
+    {
+        "quest": "「pass away」を日本語でいうと何？",
+        "choice": [
+            "立ち去る",
+            "外国にいく",
+            "引き裂く",
+            "亡くなる"
+        ],
+        "answer": "亡くなる"
+    },
+    {
+        "quest": "次のうち、「corridor」と似た意味の英単語はどれ？",
+        "choice": [
+            "driveway",
+            "hallway",
+            "freeway",
+            "expressway"
+        ],
+        "answer": "hallway"
+    },
+    {
+        "quest": "英語の「small potatoes」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "かわいい人",
+            "くだらない人もの",
+            "好物",
+            "やさしいこと"
+        ],
+        "answer": "くだらない人もの"
+    },
+    {
+        "quest": "英語の「head for the hills」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "無視する",
+            "出世する",
+            "努力する",
+            "逃げる"
+        ],
+        "answer": "逃げる"
+    },
+    {
+        "quest": "英語で「four-o'clock」とよばれる花は何？",
+        "choice": [
+            "ナデシコ",
+            "オシロイバナ",
+            "マツバギク",
+            "カスミソウ"
+        ],
+        "answer": "オシロイバナ"
+    },
+    {
+        "quest": "「結婚する」を英語でいうと何？",
+        "choice": [
+            "marry",
+            "mainly",
+            "merry",
+            "marie"
+        ],
+        "answer": "marry"
+    },
+    {
+        "quest": "「ヒバリ」を英語でいうと何？",
+        "choice": [
+            "chicken",
+            "eagle",
+            "lark",
+            "hawk"
+        ],
+        "answer": "lark",
+        "write": 1
+    },
+    {
+        "quest": "英語で「heptathlon」と呼ばれるスポーツは何？",
+        "choice": [
+            "二種競技",
+            "十種競技",
+            "四種競技",
+            "七種競技"
+        ],
+        "answer": "七種競技"
+    },
+    {
+        "quest": "「外国為替証拠金取引」を指す「FX」は、何という言葉の略？",
+        "choice": [
+            "funny exchange",
+            "foreign exchange",
+            "free exchange",
+            "frying exchange"
+        ],
+        "answer": "foreign exchange"
+    },
+    {
+        "quest": "次のうち、「fair」と似た意味の英単語はどれ？",
+        "choice": [
+            "expert",
+            "exhibition",
+            "exit",
+            "explanation"
+        ],
+        "answer": "exhibition"
+    },
+    {
+        "quest": "「生産する」を英語でいうと何？",
+        "choice": [
+            "destroy",
+            "suspend",
+            "build",
+            "produce"
+        ],
+        "answer": "produce"
+    },
+    {
+        "quest": "「as a rule」を日本語でいうと何？",
+        "choice": [
+            "概して",
+            "同様に",
+            "対になって",
+            "結果的に"
+        ],
+        "answer": "概して"
+    },
+    {
+        "quest": "漢字を英語で「○○○ characters」。○○○に入る言葉は何？",
+        "choice": [
+            "Mongolian",
+            "Korean",
+            "Japanese",
+            "Chinese"
+        ],
+        "answer": "Chinese"
+    },
+    {
+        "quest": "「トンボ」を英語でいうと何？",
+        "choice": [
+            "ant",
+            "bee",
+            "ladybug",
+            "dragonfly"
+        ],
+        "answer": "dragonfly"
+    },
+    {
+        "quest": "「今週末」を英語でいうと「○○○ weekend」。○○○は何？",
+        "choice": [
+            "this",
+            "today’s",
+            "that",
+            "its"
+        ],
+        "answer": "this"
+    },
+    {
+        "quest": "豪華観光寝台列車のことを和製英語で「cruise train」。英語では「○○○ sleeper train」。○○○は何？",
+        "choice": [
+            "star",
+            "diamond",
+            "luxury",
+            "king"
+        ],
+        "answer": "luxury"
+    },
+    {
+        "quest": "「一人ずつ」を英語でいうと何？",
+        "choice": [
+            "one of one",
+            "one until one",
+            "one over one",
+            "one by one"
+        ],
+        "answer": "one by one"
+    },
+    {
+        "quest": "英語で「光線」と「綿」を意味する言葉を組み合わせて名づけられた再生繊維は何？",
+        "choice": [
+            "fleece",
+            "nylon",
+            "rayon",
+            "polyester"
+        ],
+        "answer": "rayon"
+    },
+    {
+        "quest": "英語の「for dear life」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "生涯にわたり",
+            "命からがら",
+            "最高潮",
+            "愛妻"
+        ],
+        "answer": "命からがら"
+    },
+    {
+        "quest": "香水などを霧状にして吹き付けるときに使うスプレー容器のことを英語で何という？",
+        "choice": [
+            "totalizer",
+            "atomizer",
+            "equalizer",
+            "stabilizer"
+        ],
+        "answer": "atomizer"
+    },
+    {
+        "quest": "英語のつづりで、「イースト菌」の「イースト」にあって、「東」の「イースト」にはない文字は何？",
+        "choice": [
+            "Y",
+            "P",
+            "E",
+            "S"
+        ],
+        "answer": "Y"
+    },
+    {
+        "quest": "「keep late hours」を日本語でいうと何？",
+        "choice": [
+            "時間を守る",
+            "夜更かしする",
+            "我を忘れる",
+            "予定に遅れる"
+        ],
+        "answer": "夜更かしする"
+    },
+    {
+        "quest": "英語で「chinese cabbage」と呼ばれる、鍋料理などに使われる野菜は何？",
+        "choice": [
+            "白菜",
+            "青菜",
+            "高菜",
+            "水菜"
+        ],
+        "answer": "白菜"
+    },
+    {
+        "quest": "英語の「shotgun wedding」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "駆け落ち",
+            "短期間の結婚",
+            "晩婚",
+            "授かり婚"
+        ],
+        "answer": "授かり婚"
+    },
+    {
+        "quest": "次のうち、英語では「neutron」という素粒子はどれ？",
+        "choice": [
+            "電子",
+            "原子",
+            "陽子",
+            "中性子"
+        ],
+        "answer": "中性子"
+    },
+    {
+        "quest": "「結婚」を英語でいうと何？",
+        "choice": [
+            "marriage",
+            "arbitration",
+            "divorce",
+            "message"
+        ],
+        "answer": "marriage"
+    },
+    {
+        "quest": "「第一人者」を英語でいうと「the top of the ○○○」。○○○は何？",
+        "choice": [
+            "tower",
+            "tree",
+            "house",
+            "hair"
+        ],
+        "answer": "tree",
+        "write": 1
+    },
+    {
+        "quest": "「助言する」という意味の動詞はどれ？",
+        "choice": [
+            "advise",
+            "addvice",
+            "addvise",
+            "advice"
+        ],
+        "answer": "advise"
+    },
+    {
+        "quest": "「at the eleventh hour」を日本語ていうと何？",
+        "choice": [
+            "現時点では",
+            "早朝",
+            "土壇場で",
+            "深夜に"
+        ],
+        "answer": "土壇場で"
+    },
+    {
+        "quest": "「pass up」を日本語でいうと何？",
+        "choice": [
+            "相続する",
+            "辞退する",
+            "選び出す",
+            "再生する"
+        ],
+        "answer": "辞退する"
+    },
+    {
+        "quest": "「作動する」を英語でいうと何？",
+        "choice": [
+            "cook",
+            "catch",
+            "select",
+            "operate"
+        ],
+        "answer": "operate"
+    },
+    {
+        "quest": "英語で「gaga」がスラングとしてつかわれるときの意味は何？",
+        "choice": [
+            "騒がしい",
+            "老いぼれ",
+            "最新式",
+            "派手な"
+        ],
+        "answer": "老いぼれ"
+    },
+    {
+        "quest": "「get upset」を日本語でいうと何？",
+        "choice": [
+            "怒る",
+            "考える",
+            "退屈する",
+            "笑う"
+        ],
+        "answer": "怒る"
+    },
+    {
+        "quest": "次のうち、「decrease」と似た意味の英単語はどれ？",
+        "choice": [
+            "limousine",
+            "lessen",
+            "liaison",
+            "lesson"
+        ],
+        "answer": "lessen"
+    },
+    {
+        "quest": "「うまくいく」を英語でいうと何？",
+        "choice": [
+            "put right",
+            "turn right",
+            "run right",
+            "come right"
+        ],
+        "answer": "come right"
+    },
+    {
+        "quest": "「pine」を日本語でいうと何？",
+        "choice": [
+            "ウメ",
+            "タケ",
+            "ヒノキ",
+            "マツ"
+        ],
+        "answer": "マツ",
+        "write": 4
+    },
+    {
+        "quest": "「sorry」を日本語でいうと何？",
+        "choice": [
+            "こんにちは",
+            "さようなら",
+            "またいつか",
+            "すみません"
+        ],
+        "answer": "すみません"
+    },
+    {
+        "quest": "英語で「frame」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "痛む",
+            "儲ける",
+            "眠る",
+            "陥れる"
+        ],
+        "answer": "陥れる"
+    },
+    {
+        "quest": "「split up」を日本語でいうと何？",
+        "choice": [
+            "別れる",
+            "跳び上がる",
+            "拍手する",
+            "検討する"
+        ],
+        "answer": "別れる"
+    },
+    {
+        "quest": "「closed book」を日本語でいうと何？",
+        "choice": [
+            "良い成績",
+            "理解できないこと",
+            "忘れ物",
+            "役に立たない知識"
+        ],
+        "answer": "理解できないこと"
+    },
+    {
+        "quest": "次のうち、「confusion」と似た意味の英単語はどれ？",
+        "choice": [
+            "discovery",
+            "discipline",
+            "dispatch",
+            "disorder"
+        ],
+        "answer": "disorder"
+    },
+    {
+        "quest": "ことわざ「覆水盆にかえらず」を英語で書いたときに出てくる言葉は何？",
+        "choice": [
+            "water",
+            "tea",
+            "drink",
+            "milk"
+        ],
+        "answer": "milk"
+    },
+    {
+        "quest": "次のうち、「sharp」の反対の意味の単語はどれ？",
+        "choice": [
+            "blunt",
+            "blush",
+            "bluff",
+            "blue"
+        ],
+        "answer": "blunt"
+    },
+    {
+        "quest": "「悩ます」を英語でいうと何？",
+        "choice": [
+            "bother",
+            "other",
+            "mother",
+            "another"
+        ],
+        "answer": "bother"
+    },
+    {
+        "quest": "「提供する」を英語でいうと何？",
+        "choice": [
+            "leer",
+            "offer",
+            "over",
+            "aver"
+        ],
+        "answer": "offer"
+    },
+    {
+        "quest": "「ten to one」を日本語でいうと何？",
+        "choice": [
+            "一言一句",
+            "十人十色",
+            "一期一会",
+            "十中八九"
+        ],
+        "answer": "十中八九"
+    },
+    {
+        "quest": "英語で「beef」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "好物",
+            "不満",
+            "散財",
+            "ぜいたく"
+        ],
+        "answer": "不満"
+    },
+    {
+        "quest": "英語で「solid」といえば、どんな状態のこと？",
+        "choice": [
+            "導体",
+            "気体",
+            "固体",
+            "液体"
+        ],
+        "answer": "固体"
+    },
+    {
+        "quest": "「ツバメ」を英語でいうと何？",
+        "choice": [
+            "chicken",
+            "robin",
+            "swallow",
+            "peacock"
+        ],
+        "answer": "swallow",
+        "write": 1
+    },
+    {
+        "quest": "次のうち、「sharp」と似た意味の英単語はどれ？",
+        "choice": [
+            "accord",
+            "acute",
+            "accuse",
+            "accustomed"
+        ],
+        "answer": "acute"
+    },
+    {
+        "quest": "「mess」を日本語でいうと何？",
+        "choice": [
+            "めちゃくちゃ",
+            "てきぱき",
+            "ふっくら",
+            "しっかり"
+        ],
+        "answer": "めちゃくちゃ"
+    },
+    {
+        "quest": "次のうち、英語では「liquid」という物質の状態はどれ？",
+        "choice": [
+            "固体",
+            "気体",
+            "液体",
+            "天体"
+        ],
+        "answer": "液体"
+    },
+    {
+        "quest": "「development」を日本語でいうと何？",
+        "choice": [
+            "発売",
+            "出発",
+            "発行",
+            "開発"
+        ],
+        "answer": "開発"
+    },
+    {
+        "quest": "英語で「blast」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "卒業式",
+            "デート",
+            "葬儀",
+            "パーティー"
+        ],
+        "answer": "パーティー"
+    },
+    {
+        "quest": "「be acquainted with」を日本語でいうと何？",
+        "choice": [
+            "恐れる",
+            "怒り出す",
+            "苦労する",
+            "知っている"
+        ],
+        "answer": "知っている"
+    },
+    {
+        "quest": "ボードゲームの「monopoly」は、英語でどんな意味？",
+        "choice": [
+            "独占",
+            "占領",
+            "買収",
+            "商売"
+        ],
+        "answer": "独占"
+    },
+    {
+        "quest": "次のうち、英語では「electron」という素粒子は電子ですが、「neutron」はどれ？",
+        "choice": [
+            "電子",
+            "陽子",
+            "原子",
+            "中性子"
+        ],
+        "answer": "中性子"
+    },
+    {
+        "quest": "「～の隣り」を英語でいうと何？",
+        "choice": [
+            "next",
+            "between",
+            "and",
+            "near"
+        ],
+        "answer": "next"
+    },
+    {
+        "quest": "体操の種目の「平均台」を、英語では何という？",
+        "choice": [
+            "balance beam",
+            "balance beem",
+            "balance baam",
+            "balance bem"
+        ],
+        "answer": "balance beam"
+    },
+    {
+        "quest": "「pinky」を日本語でいうと何？",
+        "choice": [
+            "中指",
+            "小指",
+            "人差し指",
+            "薬指"
+        ],
+        "answer": "小指"
+    },
+    {
+        "quest": "英語の「crack the whip」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "服従させる",
+            "無駄骨を折る",
+            "失言する",
+            "ズルをする"
+        ],
+        "answer": "服従させる"
+    },
+    {
+        "quest": "「fresh」を日本語でいうと何？",
+        "choice": [
+            "中途半端な",
+            "新鮮な",
+            "急ぎの",
+            "古びた"
+        ],
+        "answer": "新鮮な"
+    },
+    {
+        "quest": "果物の「pineapple」。appleはリンゴのことですが、pineとは何のこと？",
+        "choice": [
+            "杉",
+            "桜",
+            "松",
+            "柳"
+        ],
+        "answer": "松"
+    },
+    {
+        "quest": "「hat in hand」を日本語でいうと何？",
+        "choice": [
+            "隠し事をして",
+            "かしこまって",
+            "おしゃれして",
+            "大急ぎで"
+        ],
+        "answer": "かしこまって"
+    },
+    {
+        "quest": "「ハマグリ」を英語でいうと何？",
+        "choice": [
+            "starfish",
+            "shrimp",
+            "shark",
+            "clam"
+        ],
+        "answer": "clam"
+    },
+    {
+        "quest": "「〜について」を英語でいうと何？",
+        "choice": [
+            "on",
+            "during",
+            "without",
+            "among"
+        ],
+        "answer": "on"
+    },
+    {
+        "quest": "英語で「gig」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "ジョーク",
+            "仕事",
+            "大成功",
+            "災難"
+        ],
+        "answer": "仕事"
+    },
+    {
+        "quest": "「Never mind」を日本語でいうと何？",
+        "choice": [
+            "心にもない",
+            "心配するな",
+            "冷血",
+            "気が気でない"
+        ],
+        "answer": "心配するな"
+    },
+    {
+        "quest": "「日が暮れてから」を英語でいうと「after ○○○」。○○○は何？",
+        "choice": [
+            "bright",
+            "sunny",
+            "dark",
+            "day"
+        ],
+        "answer": "dark"
+    },
+    {
+        "quest": "英語で「soybean paste」という調味料は何？",
+        "choice": [
+            "山椒",
+            "味噌",
+            "醤油",
+            "山葵"
+        ],
+        "answer": "味噌"
+    },
+    {
+        "quest": "ヘアスタイルのポイントとなる、額に垂れた前髪のことを、英語で何という？",
+        "choice": [
+            "bang",
+            "rang",
+            "kong",
+            "song"
+        ],
+        "answer": "bang"
+    },
+    {
+        "quest": "「tune in」を日本語でいうと何？",
+        "choice": [
+            "電灯を消す",
+            "味つけをする",
+            "鍵をかける",
+            "ラジオをつける"
+        ],
+        "answer": "ラジオをつける"
+    },
+    {
+        "quest": "「behind schedule」を日本語でいうと何？",
+        "choice": [
+            "予定より遅れて",
+            "直前で",
+            "約束を破る",
+            "予定通り"
+        ],
+        "answer": "予定より遅れて"
+    },
+    {
+        "quest": "「イワシ」を英語でいうと何？",
+        "choice": [
+            "salmon",
+            "shark",
+            "sardine",
+            "saury"
+        ],
+        "answer": "sardine"
+    },
+    {
+        "quest": "英語で「heavy」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "悪役",
+            "病気",
+            "大金",
+            "父親"
+        ],
+        "answer": "悪役"
+    },
+    {
+        "quest": "英語で「rip-off」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "抜きん出た",
+            "不良品",
+            "ぼったくり",
+            "いい加減な"
+        ],
+        "answer": "ぼったくり"
+    },
+    {
+        "quest": "ゴルフで、打球が飛ぶ方向にいる人に対する警告として発する「フォア」の英語でのつづりは何？",
+        "choice": [
+            "foar",
+            "fore",
+            "for",
+            "four"
+        ],
+        "answer": "fore"
+    },
+    {
+        "quest": "「explore」を日本語でいうと何？",
+        "choice": [
+            "拒否する",
+            "解決する",
+            "探検する",
+            "勉強する"
+        ],
+        "answer": "探検する"
+    },
+    {
+        "quest": "「a baker's dozen」を日本語でいうと何？",
+        "choice": [
+            "12個",
+            "11個",
+            "13個",
+            "14個"
+        ],
+        "answer": "13個"
+    },
+    {
+        "quest": "英語の「flake out」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "騒ぎ立てる",
+            "腹が減る",
+            "うまく切り抜ける",
+            "意識を失う"
+        ],
+        "answer": "意識を失う"
+    },
+    {
+        "quest": "英語で「Catch-22」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "無謀",
+            "大成功",
+            "宣伝文句",
+            "ジレンマ"
+        ],
+        "answer": "ジレンマ"
+    },
+    {
+        "quest": "次のうち、水泳などで使う「ゴーグル」の正しいつづりはどれ？",
+        "choice": [
+            "goooggles",
+            "googles",
+            "googgles",
+            "goggles"
+        ],
+        "answer": "goggles"
+    },
+    {
+        "quest": "「とにかく」を英語でいうと何？",
+        "choice": [
+            "someone",
+            "anyway",
+            "anything",
+            "something"
+        ],
+        "answer": "anyway"
+    },
+    {
+        "quest": "A rolling stone gathers no moss.という諺を日本語でいうと何？",
+        "choice": [
+            "転石苔を生ぜず",
+            "雨垂れ石を穿つ",
+            "石に漱ぎ流れに枕す",
+            "他山の石"
+        ],
+        "answer": "転石苔を生ぜず"
+    },
+    {
+        "quest": "Easy come，easy go. という諺を日本語でいうと何？",
+        "choice": [
+            "金は天下の回り物",
+            "百里の道も一足から",
+            "先んずれば人を制す",
+            "悪銭身に付かず"
+        ],
+        "answer": "悪銭身に付かず"
+    },
+    {
+        "quest": "「fame」を日本語でいうと何？",
+        "choice": [
+            "名声",
+            "声量",
+            "罵声",
+            "声優"
+        ],
+        "answer": "名声"
+    },
+    {
+        "quest": "「at any moment」を日本語でいうと何？",
+        "choice": [
+            "いつなんどき",
+            "ゆっくり",
+            "めったにない",
+            "たまには"
+        ],
+        "answer": "いつなんどき"
+    },
+    {
+        "quest": "「hit on」を日本語でいうと何？",
+        "choice": [
+            "事故を起こす",
+            "ふと思いつく",
+            "知り合う",
+            "勉強する"
+        ],
+        "answer": "ふと思いつく"
+    },
+    {
+        "quest": "「match」を日本語でいうと何？",
+        "choice": [
+            "中断",
+            "終了",
+            "試合",
+            "開始"
+        ],
+        "answer": "試合"
+    },
+    {
+        "quest": "英語で「snappy」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "偉そうな",
+            "かわいらしい",
+            "てきぱきした",
+            "怠惰な"
+        ],
+        "answer": "てきぱきした"
+    },
+    {
+        "quest": "英語の「wear the pants」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "取り繕う",
+            "亭主を尻に敷く",
+            "成長する",
+            "簡単なこと"
+        ],
+        "answer": "亭主を尻に敷く"
+    },
+    {
+        "quest": "次のうち、「気圧計」を意味する英語はどれ？",
+        "choice": [
+            "thermometer",
+            "anemometer",
+            "barometer",
+            "tachometer"
+        ],
+        "answer": "barometer"
+    },
+    {
+        "quest": "英語で「gaga」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "派手な",
+            "騒がしい",
+            "老いぼれ",
+            "最新式"
+        ],
+        "answer": "老いぼれ"
+    },
+    {
+        "quest": "次のうち、英語では「proton」という素粒子は陽子ですが、「atom」はどれ？",
+        "choice": [
+            "陽子",
+            "中性子",
+            "電子",
+            "原子"
+        ],
+        "answer": "原子"
+    },
+    {
+        "quest": "北欧神話の神・トールがその名の由来である曜日を表す英単語はどれ？",
+        "choice": [
+            "Tuesday",
+            "Thursday",
+            "Saturday",
+            "Sunday"
+        ],
+        "answer": "Thursday"
+    },
+    {
+        "quest": "英語で「old maid」というトランプゲームは何？",
+        "choice": [
+            "七並べ",
+            "神経衰弱",
+            "ババ抜き",
+            "大富豪"
+        ],
+        "answer": "ババ抜き"
+    },
+    {
+        "quest": "英語で「dish」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "投げ捨てる",
+            "うわさする",
+            "別れる",
+            "むさぼり食う"
+        ],
+        "answer": "うわさする"
+    },
+    {
+        "quest": "「stork」を日本語でいうと何？",
+        "choice": [
+            "キジ",
+            "ハト",
+            "カラス",
+            "コウノトリ"
+        ],
+        "answer": "コウノトリ"
+    },
+    {
+        "quest": "次のうち、英語では「neutron」という素粒子は中性子ですが、「proton」はどれ？",
+        "choice": [
+            "原子",
+            "電子",
+            "陽子",
+            "中性子"
+        ],
+        "answer": "陽子"
+    },
+    {
+        "quest": "「感覚」を英語でいうと何？",
+        "choice": [
+            "emotion",
+            "feeling",
+            "sentence",
+            "impressive"
+        ],
+        "answer": "feeling",
+        "write": 1
+    },
+    {
+        "quest": "firefoxとは何の別名のこと?",
+        "choice": [
+            "アライグマ",
+            "アナグマ",
+            "レッサーパンダ",
+            "アカキツネ"
+        ],
+        "answer": "レッサーパンダ"
+    },
+    {
+        "quest": "「even」を日本語でいうと何？",
+        "choice": [
+            "～と一緒に",
+            "～さえ",
+            "～の横に",
+            "～だから"
+        ],
+        "answer": "～さえ"
+    },
+    {
+        "quest": "経済の分野でよく聞く「GDP」。日本語でいうと何？",
+        "choice": [
+            "国内総生産",
+            "国民総幸福量",
+            "国民総所得",
+            "国民総生産"
+        ],
+        "answer": "国内総生産"
+    },
+    {
+        "quest": "「驚くべき」を英語でいうと何？",
+        "choice": [
+            "available",
+            "remarkable",
+            "reasonable",
+            "memorable"
+        ],
+        "answer": "remarkable"
+    },
+    {
+        "quest": "次のうち、英語では「electron」という素粒子はどれ？",
+        "choice": [
+            "電子",
+            "原子",
+            "陽子",
+            "中性子"
+        ],
+        "answer": "電子"
+    },
+    {
+        "quest": "英語で「nut」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "子供",
+            "上司",
+            "変人",
+            "相棒"
+        ],
+        "answer": "変人"
+    },
+    {
+        "quest": "次のうち、英語で「鉄」を意味するのはどれ？",
+        "choice": [
+            "steel",
+            "brass",
+            "copper",
+            "iron"
+        ],
+        "answer": "iron"
+    },
+    {
+        "quest": "英語の「dead to the world」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "一文無しになって",
+            "絶望して",
+            "一か八か",
+            "眠り込んで"
+        ],
+        "answer": "眠り込んで"
+    },
+    {
+        "quest": "「望遠鏡」を英語で何という？",
+        "choice": [
+            "microscope",
+            "oscilloscope",
+            "randscope",
+            "telescope"
+        ],
+        "answer": "telescope"
+    },
+    {
+        "quest": "「draw near」を日本語でいうと何？",
+        "choice": [
+            "取引する",
+            "夢見る",
+            "着飾る",
+            "近づく"
+        ],
+        "answer": "近づく"
+    },
+    {
+        "quest": "英語で「thirsty」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "みすぼらしい",
+            "疲れ切った",
+            "一文無しの",
+            "欲しくてたまらない"
+        ],
+        "answer": "欲しくてたまらない"
+    },
+    {
+        "quest": "「desert」を日本語でいうと何？",
+        "choice": [
+            "砂漠",
+            "食事",
+            "泉",
+            "洋菓子"
+        ],
+        "answer": "砂漠"
+    },
+    {
+        "quest": "次のうち、「nephew」の反対の意味の単語はどれ？",
+        "choice": [
+            "nice",
+            "niece",
+            "nickel",
+            "niche"
+        ],
+        "answer": "niece"
+    },
+    {
+        "quest": "次のうち、「common」と似た意味の単語はどれ？",
+        "choice": [
+            "ordinary",
+            "binary",
+            "stationery",
+            "dictionary"
+        ],
+        "answer": "ordinary"
+    },
+    {
+        "quest": "「対談」を英語でいうと何？",
+        "choice": [
+            "joke",
+            "chat",
+            "interview",
+            "talk"
+        ],
+        "answer": "interview"
+    },
+    {
+        "quest": "英語の「get off one's rear」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "隠し持つ",
+            "仕事に取りかかる",
+            "人を騙す",
+            "逃げ出す"
+        ],
+        "answer": "仕事に取りかかる"
+    },
+    {
+        "quest": "アメリカのゲーム見本市「E3」の正式な名称にない英語は次のうちどれ？",
+        "choice": [
+            "Electronic",
+            "Expo",
+            "Europe",
+            "Entertainment"
+        ],
+        "answer": "Europe"
+    },
+    {
+        "quest": "英語の「push off」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "徹夜する",
+            "片付ける",
+            "立ち去る",
+            "拒絶する"
+        ],
+        "answer": "立ち去る"
+    },
+    {
+        "quest": "英語で「space」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "掃除する",
+            "裏切る",
+            "ぼんやりする",
+            "計画する"
+        ],
+        "answer": "ぼんやりする"
+    },
+    {
+        "quest": "次のうち、英語では「proton」という素粒子は陽子ですが、「electron」はどれ？",
+        "choice": [
+            "中性子",
+            "電子",
+            "原子",
+            "陽子"
+        ],
+        "answer": "電子"
+    },
+    {
+        "quest": "英語のアルファベットで、小文字を「small letter」というのに対して、大文字を何という？",
+        "choice": [
+            "capital letter",
+            "main letter",
+            "prime letter",
+            "basic letter"
+        ],
+        "answer": "capital letter"
+    },
+    {
+        "quest": "英語で「chin up」というトレーニングは何？",
+        "choice": [
+            "懸垂",
+            "腕立て伏せ",
+            "腹筋",
+            "腿上げ"
+        ],
+        "answer": "懸垂"
+    },
+    {
+        "quest": "英語で「ミレニアム」のつづりは何？",
+        "choice": [
+            "milennium",
+            "milleniam",
+            "milenium",
+            "millennium"
+        ],
+        "answer": "millennium",
+        "write": 1
+    },
+    {
+        "quest": "「注意」を英語でいうと何？",
+        "choice": [
+            "safety",
+            "notice",
+            "attention",
+            "news"
+        ],
+        "answer": "attention"
+    },
+    {
+        "quest": "英語では「anemometer」というのは何を計る器械？",
+        "choice": [
+            "気圧",
+            "気温",
+            "湿度",
+            "風速"
+        ],
+        "answer": "風速"
+    },
+    {
+        "quest": "「関税及び貿易に関する一般協定」を、アルファベット4文字の略称で何という？",
+        "choice": [
+            "OECD",
+            "IBRD",
+            "GATT",
+            "NATO"
+        ],
+        "answer": "GATT"
+    },
+    {
+        "quest": "「rummage」はどういう意味?",
+        "choice": [
+            "探し回る",
+            "腐敗する",
+            "酸化する",
+            "破壊する"
+        ],
+        "answer": "探し回る"
+    },
+    {
+        "quest": "英語で「dime」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "友人",
+            "隣人",
+            "美人",
+            "犯人"
+        ],
+        "answer": "美人"
+    },
+    {
+        "quest": "英語の「the bottom line」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "借金",
+            "輸入",
+            "投資",
+            "収益"
+        ],
+        "answer": "収益"
+    },
+    {
+        "quest": "英語で「bash」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "犯行",
+            "パーティー",
+            "労働",
+            "放課後"
+        ],
+        "answer": "パーティー"
+    },
+    {
+        "quest": "牛を意味する英単語「ox」の複数形はどれ？",
+        "choice": [
+            "oxen",
+            "oxes",
+            "oxa",
+            "ox"
+        ],
+        "answer": "oxen"
+    },
+    {
+        "quest": "「traditional」を日本語でいうと何？",
+        "choice": [
+            "生きる",
+            "空想",
+            "伝統的な",
+            "極上"
+        ],
+        "answer": "伝統的な"
+    },
+    {
+        "quest": "英語で「smashing」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "素早い",
+            "ぼろぼろの",
+            "すばらしい",
+            "騒々しい"
+        ],
+        "answer": "すばらしい"
+    },
+    {
+        "quest": "「each other」を日本語でいうと何？",
+        "choice": [
+            "片思い",
+            "一方",
+            "お互い",
+            "片方"
+        ],
+        "answer": "お互い"
+    },
+    {
+        "quest": "「lullaby」を日本語でいうと何？",
+        "choice": [
+            "子守歌",
+            "鎮魂歌",
+            "応援歌",
+            "数え歌"
+        ],
+        "answer": "子守歌"
+    },
+    {
+        "quest": "英語で「pine tree」と書かれる木は何？",
+        "choice": [
+            "竹",
+            "桜",
+            "梅",
+            "松"
+        ],
+        "answer": "松"
+    },
+    {
+        "quest": "英語の「by the numbers」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "暗記して",
+            "機械的に",
+            "論理的に",
+            "冷淡に"
+        ],
+        "answer": "機械的に"
+    },
+    {
+        "quest": "「arm」を日本語でいうと何？",
+        "choice": [
+            "手",
+            "頭",
+            "腕",
+            "首"
+        ],
+        "answer": "腕"
+    },
+    {
+        "quest": "「n型半導体」といったときの「n」とは、何という英語の略？",
+        "choice": [
+            "number",
+            "notion",
+            "neat",
+            "negative"
+        ],
+        "answer": "negative"
+    },
+    {
+        "quest": "「地下道」を英語でいうと何？",
+        "choice": [
+            "cloud",
+            "underground",
+            "metro",
+            "underpass"
+        ],
+        "answer": "underpass",
+        "write": 1
+    },
+    {
+        "quest": "「lose one's head」を日本語でいうと何？",
+        "choice": [
+            "疲れ切る",
+            "大喜びする",
+            "気が動転する",
+            "ど忘れする"
+        ],
+        "answer": "気が動転する"
+    },
+    {
+        "quest": "会議で、議決権はないが参加資格があるという者を、「観察者」という意味の英語で何という？",
+        "choice": [
+            "chairman",
+            "observer",
+            "umpire",
+            "ombudsman"
+        ],
+        "answer": "observer",
+        "write": 1
+    },
+    {
+        "quest": "主要国首脳会議の通称である「G8」の「G」は、何という言葉の頭文字？",
+        "choice": [
+            "Genius",
+            "Group",
+            "God",
+            "Government"
+        ],
+        "answer": "Group",
+        "write": 1
+    },
+    {
+        "quest": "英語で「looker」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "優等生",
+            "赤ちゃん",
+            "美人",
+            "内向的な人"
+        ],
+        "answer": "美人"
+    },
+    {
+        "quest": "英語で「almighty」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "すごい",
+            "偉そうな",
+            "ハンサムな",
+            "平凡な"
+        ],
+        "answer": "すごい"
+    },
+    {
+        "quest": "英語の「get cold feet」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "おじけづく",
+            "論理的に考える",
+            "一休みする",
+            "怒りを抑える"
+        ],
+        "answer": "おじけづく"
+    },
+    {
+        "quest": "英語では「coast guard」という、日本の海上保安庁にあたるアメリカの機関は何？",
+        "choice": [
+            "攻殻機動隊",
+            "警察予備隊",
+            "海上自衛隊",
+            "沿岸警備隊"
+        ],
+        "answer": "沿岸警備隊"
+    },
+    {
+        "quest": "星座のおうし座を英語では何という？",
+        "choice": [
+            "Capricorn",
+            "Aries",
+            "Pisces",
+            "Taurus"
+        ],
+        "answer": "Taurus"
+    },
+    {
+        "quest": "次のうち、「modern」の反対の意味の単語はどれ？",
+        "choice": [
+            "efficient",
+            "ingredient",
+            "deficient",
+            "ancient"
+        ],
+        "answer": "ancient"
+    },
+    {
+        "quest": "次のうち、「accidental」の反対の意味の単語はどれ？",
+        "choice": [
+            "internal",
+            "intentional",
+            "interesting",
+            "interactive"
+        ],
+        "answer": "intentional"
+    },
+    {
+        "quest": "「the bee's knees」を日本語でいうと何？",
+        "choice": [
+            "不要なもの",
+            "保管場所",
+            "一流の人",
+            "極めて小さいもの"
+        ],
+        "answer": "一流の人"
+    },
+    {
+        "quest": "「make up for」を日本語でいうと何？",
+        "choice": [
+            "決心する",
+            "調査する",
+            "締め付ける",
+            "補償する"
+        ],
+        "answer": "補償する"
+    },
+    {
+        "quest": "英語で東洋のことを「orient」というのに対し、西洋のことを何という？",
+        "choice": [
+            "president",
+            "accident",
+            "occident",
+            "resident"
+        ],
+        "answer": "occident"
+    },
+    {
+        "quest": "「at sea」を日本語でいうと何？",
+        "choice": [
+            "巨大な",
+            "気持ちよく",
+            "平和的に",
+            "途方に暮れて"
+        ],
+        "answer": "途方に暮れて"
+    },
+    {
+        "quest": "英語で「hang out」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "笑い出す",
+            "殴る",
+            "遊ぶ",
+            "見捨てる"
+        ],
+        "answer": "遊ぶ"
+    },
+    {
+        "quest": "「knock off」を日本語でいうと何？",
+        "choice": [
+            "開始する",
+            "中止する",
+            "消灯する",
+            "訪問する"
+        ],
+        "answer": "中止する"
+    },
+    {
+        "quest": "英語で「たぬき寝入り」を表すことわざに出てくる動物は何？",
+        "choice": [
+            "きつね",
+            "ねずみ",
+            "たぬき",
+            "うさぎ"
+        ],
+        "answer": "きつね"
+    },
+    {
+        "quest": "「put on a hat」を日本語でいうと何？",
+        "choice": [
+            "帽子を脱ぐ",
+            "帽子をかぶる",
+            "帽子を選ぶ",
+            "帽子を買う"
+        ],
+        "answer": "帽子をかぶる"
+    },
+    {
+        "quest": "英語の「put upon」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "無視する",
+            "熟考する",
+            "酷使する",
+            "努力する"
+        ],
+        "answer": "酷使する"
+    },
+    {
+        "quest": "次のうち、「desperate」の反対の意味の単語はどれ？",
+        "choice": [
+            "hateful",
+            "hopeful",
+            "handful",
+            "harmful"
+        ],
+        "answer": "hopeful"
+    },
+    {
+        "quest": "「make haste」を日本語でいうと何？",
+        "choice": [
+            "確かめる",
+            "急ぐ",
+            "休む",
+            "出会う"
+        ],
+        "answer": "急ぐ"
+    },
+    {
+        "quest": "英語では「stapler」という文房具は何？",
+        "choice": [
+            "ボールペン",
+            "ホッチキス",
+            "ケシゴム",
+            "セロハンテープ"
+        ],
+        "answer": "ホッチキス"
+    },
+    {
+        "quest": "食事の後に食べる「デザート」を意味する英単語はどれ?",
+        "choice": [
+            "desert",
+            "dezart",
+            "dessart",
+            "dessert"
+        ],
+        "answer": "dessert"
+    },
+    {
+        "quest": "「作り話」を英語でいうと何？",
+        "choice": [
+            "narration",
+            "recording",
+            "nonfiction",
+            "fiction"
+        ],
+        "answer": "fiction",
+        "write": 1
+    },
+    {
+        "quest": "次のメジャーリーグの球団のうち、球団名の英語のつづりが「s」で終わらないのはどれ？",
+        "choice": [
+            "ダイヤモンドバックス",
+            "メッツ",
+            "ブルージェイズ",
+            "ホワイトソックス"
+        ],
+        "answer": "ホワイトソックス"
+    },
+    {
+        "quest": "採算を度外視した低価格で商品の投げ売りをする、「不当廉売」のことを何という？",
+        "choice": [
+            "dumping",
+            "damping",
+            "doming",
+            "doping"
+        ],
+        "answer": "dumping"
+    },
+    {
+        "quest": "政府や企業などが負う「説明責任」を英語で何という？",
+        "choice": [
+            "agenda",
+            "governance",
+            "accountability",
+            "manifesto"
+        ],
+        "answer": "accountability"
+    },
+    {
+        "quest": "「指摘する」を英語でいうと何？",
+        "choice": [
+            "point away",
+            "point under",
+            "point out",
+            "point through"
+        ],
+        "answer": "point out"
+    },
+    {
+        "quest": "「～だけれども」を英語でいうと何？",
+        "choice": [
+            "thousand",
+            "those",
+            "thought",
+            "though"
+        ],
+        "answer": "though"
+    },
+    {
+        "quest": "次のうち、「live」と似た意味の英単語はどれ？",
+        "choice": [
+            "swell",
+            "dwell",
+            "well",
+            "farewell"
+        ],
+        "answer": "dwell"
+    },
+    {
+        "quest": "「woodpecker」を日本語でいうと何？",
+        "choice": [
+            "キツツキ",
+            "フラミンゴ",
+            "ニワトリ",
+            "ハクチョウ"
+        ],
+        "answer": "キツツキ",
+        "write": 4
+    },
+    {
+        "quest": "英単語「safe」が名詞であるとき、表す意味はどれ？",
+        "choice": [
+            "罠",
+            "警備会社",
+            "警備員",
+            "金庫"
+        ],
+        "answer": "金庫"
+    },
+    {
+        "quest": "英語で「ガバメント」のつづりは何？",
+        "choice": [
+            "govement",
+            "government",
+            "goverment",
+            "governement"
+        ],
+        "answer": "government"
+    },
+    {
+        "quest": "「harmony」を日本語でいうと何？",
+        "choice": [
+            "演奏",
+            "楽曲",
+            "和音",
+            "旋律"
+        ],
+        "answer": "和音"
+    },
+    {
+        "quest": "方解石とは多形の関係にある、英語名を「aragonite」という鉱物は何？",
+        "choice": [
+            "霰石",
+            "霞石",
+            "霙石",
+            "雹石"
+        ],
+        "answer": "霰石"
+    },
+    {
+        "quest": "「critical of」を日本語でいうと何？",
+        "choice": [
+            "批判的である",
+            "熱中している",
+            "好奇心が強い",
+            "不足している"
+        ],
+        "answer": "批判的である"
+    },
+    {
+        "quest": "「厳しい」を英語でいうと何？",
+        "choice": [
+            "harsh",
+            "harp",
+            "harm",
+            "hare"
+        ],
+        "answer": "harsh"
+    },
+    {
+        "quest": "「refrain from」を日本語でいうと何？",
+        "choice": [
+            "分離する",
+            "苦しむ",
+            "控える",
+            "生じる"
+        ],
+        "answer": "控える"
+    },
+    {
+        "quest": "次のうち、英語で「鋼」を意味するのはどれ？",
+        "choice": [
+            "brass",
+            "steel",
+            "copper",
+            "iron"
+        ],
+        "answer": "steel"
+    },
+    {
+        "quest": "次のうち、「王立」という意味の言葉はどれ？",
+        "choice": [
+            "loyal",
+            "leal",
+            "royal",
+            "real"
+        ],
+        "answer": "royal"
+    },
+    {
+        "quest": "「answer」を日本語でいうと何？",
+        "choice": [
+            "問題",
+            "謎",
+            "恐怖",
+            "答え"
+        ],
+        "answer": "答え"
+    },
+    {
+        "quest": "「戦略」を意味する英語 strategy はもともとギリシア語でどんな意味？",
+        "choice": [
+            "将軍",
+            "兵士",
+            "武器",
+            "戦争"
+        ],
+        "answer": "将軍"
+    },
+    {
+        "quest": "「below the belt」を日本語でいうと何？",
+        "choice": [
+            "気づかずに",
+            "格安で",
+            "隠し持つ",
+            "卑劣な"
+        ],
+        "answer": "卑劣な"
+    },
+    {
+        "quest": "英語では「javelin throw」という陸上の投てき種目は何？",
+        "choice": [
+            "砲丸投げ",
+            "円盤投げ",
+            "ハンマー投げ",
+            "やり投げ"
+        ],
+        "answer": "やり投げ"
+    },
+    {
+        "quest": "「成績」を英語でいうと何？",
+        "choice": [
+            "parade",
+            "upgrade",
+            "grade",
+            "trade"
+        ],
+        "answer": "grade"
+    },
+    {
+        "quest": "英語で「zebra」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "野球の審判",
+            "ボクシングの審判",
+            "バスケの審判",
+            "アメフトの審判"
+        ],
+        "answer": "アメフトの審判"
+    },
+    {
+        "quest": "英語の「give the nod」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "貸し出す",
+            "承認する",
+            "主張する",
+            "問題視する"
+        ],
+        "answer": "承認する"
+    },
+    {
+        "quest": "植物の茎で、地面をはって伸びるもののことを、英語で何という？",
+        "choice": [
+            "runner",
+            "slanter",
+            "erecter",
+            "incliner"
+        ],
+        "answer": "runner"
+    },
+    {
+        "quest": "「pitch in」を日本語でいうと何？",
+        "choice": [
+            "仮眠をとる",
+            "捨てる",
+            "協力する",
+            "賛成する"
+        ],
+        "answer": "協力する"
+    },
+    {
+        "quest": "「play the game」を日本語でいうと何？",
+        "choice": [
+            "楽しませる",
+            "怠ける",
+            "だます",
+            "正々堂々とやる"
+        ],
+        "answer": "正々堂々とやる"
+    },
+    {
+        "quest": "「go to the woods」を日本語でいうと何？",
+        "choice": [
+            "トイレに行く",
+            "失脚する",
+            "療養する",
+            "気分転換する"
+        ],
+        "answer": "失脚する"
+    },
+    {
+        "quest": "「rock」を日本語でいうと何？",
+        "choice": [
+            "なめる",
+            "守る",
+            "ほめる",
+            "揺する"
+        ],
+        "answer": "揺する"
+    },
+    {
+        "quest": "英語で「lyric writer」。日本語では何？",
+        "choice": [
+            "作曲家",
+            "作詞家",
+            "演奏家",
+            "編曲家"
+        ],
+        "answer": "作詞家"
+    },
+    {
+        "quest": "「断片」を英語でいうと何？",
+        "choice": [
+            "pass",
+            "place",
+            "piece",
+            "peace"
+        ],
+        "answer": "piece",
+        "write": 1
+    },
+    {
+        "quest": "「rich」を日本語でいうと何？",
+        "choice": [
+            "貧しい",
+            "金持ち",
+            "楽しい",
+            "嬉しい"
+        ],
+        "answer": "金持ち"
+    },
+    {
+        "quest": "英語で「symphony」と呼ばれる音楽形式を日本語では何という？",
+        "choice": [
+            "交響曲",
+            "奏鳴曲",
+            "協奏曲",
+            "小夜曲"
+        ],
+        "answer": "交響曲"
+    },
+    {
+        "quest": "次のうち、「arrival」の反対の意味の単語はどれ？",
+        "choice": [
+            "disclosure",
+            "departure",
+            "deplore",
+            "desire"
+        ],
+        "answer": "departure"
+    },
+    {
+        "quest": "「sum up」を日本語でいうと何？",
+        "choice": [
+            "供給する",
+            "要約する",
+            "罵倒する",
+            "注意する"
+        ],
+        "answer": "要約する"
+    },
+    {
+        "quest": "「打ち解けない人」を英語でいうと「cold ○○○」。○○○は何？",
+        "choice": [
+            "fish",
+            "bird",
+            "bug",
+            "cat"
+        ],
+        "answer": "fish",
+        "write": 1
+    },
+    {
+        "quest": "英語で「swinging」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "一流",
+            "どっちつかず",
+            "めまいがする",
+            "荒っぽい"
+        ],
+        "answer": "一流"
+    },
+    {
+        "quest": "次のうち、英語では「shower」という気象現象はどれ？",
+        "choice": [
+            "霧雨",
+            "牡丹雪",
+            "粉雪",
+            "にわか雨"
+        ],
+        "answer": "にわか雨"
+    },
+    {
+        "quest": "英語では「pinecone fish」という、キンメダイ目に属する魚は何？",
+        "choice": [
+            "マツカサウオ",
+            "ギンナンウオ",
+            "ドングリウオ",
+            "イガグリウオ"
+        ],
+        "answer": "マツカサウオ"
+    },
+    {
+        "quest": "英語で「peanuts」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "好物",
+            "小柄な人",
+            "噂話",
+            "はした金"
+        ],
+        "answer": "はした金"
+    },
+    {
+        "quest": "「get the brush」を日本語でいうと何？",
+        "choice": [
+            "儲ける",
+            "コツをつかむ",
+            "拒絶される",
+            "名案が浮かぶ"
+        ],
+        "answer": "拒絶される"
+    },
+    {
+        "quest": "英語の「beat the drum」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "ドキドキする",
+            "宣伝する",
+            "いじめる",
+            "努力する"
+        ],
+        "answer": "宣伝する"
+    },
+    {
+        "quest": "次のうち、英語では「gas」という物質の状態はどれ？",
+        "choice": [
+            "気体",
+            "液体",
+            "固体",
+            "天体"
+        ],
+        "answer": "気体"
+    },
+    {
+        "quest": "次のうち、英語では「liquid」という物質の状態は液体ですが、「gas」はどれ？",
+        "choice": [
+            "固体",
+            "液体",
+            "天体",
+            "気体"
+        ],
+        "answer": "気体"
+    },
+    {
+        "quest": "曜日の名前を英語で書いたとき、最もスペルの文字数が多くなるのは何曜日？",
+        "choice": [
+            "水曜日",
+            "金曜日",
+            "火曜日",
+            "木曜日"
+        ],
+        "answer": "水曜日"
+    },
+    {
+        "quest": "英語では「chickenpox」とよばれる病気は、次のうちどれ？",
+        "choice": [
+            "おたふく風邪",
+            "水ぼうそう",
+            "はしか",
+            "りんご病"
+        ],
+        "answer": "水ぼうそう"
+    },
+    {
+        "quest": "英語の「think on one's feet」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "地道に調査する",
+            "即座に判断する",
+            "ひねり出す",
+            "熟考する"
+        ],
+        "answer": "即座に判断する"
+    },
+    {
+        "quest": "まぶたに生える「まつ毛」のことを英語で何という？",
+        "choice": [
+            "eyelashes",
+            "eyeshadow",
+            "eyelines",
+            "eyebrows"
+        ],
+        "answer": "eyelashes"
+    },
+    {
+        "quest": "「Mercury」を日本語でいうと何？",
+        "choice": [
+            "土星",
+            "金星",
+            "木星",
+            "水星"
+        ],
+        "answer": "水星"
+    },
+    {
+        "quest": "英語の「cool one's heels」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "失敗する",
+            "逸脱する",
+            "待ちくたびれる",
+            "疲れをとる"
+        ],
+        "answer": "待ちくたびれる"
+    },
+    {
+        "quest": "英語の「sitting pretty」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "好都合な",
+            "着飾って",
+            "取り繕う",
+            "注目を浴びて"
+        ],
+        "answer": "好都合な"
+    },
+    {
+        "quest": "「食べる」を意味する英単語「eat」の過去形は何？",
+        "choice": [
+            "eating",
+            "tea",
+            "ate",
+            "eated"
+        ],
+        "answer": "ate"
+    },
+    {
+        "quest": "英語で「salty」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "ハンサムな",
+            "病弱な",
+            "若々しい",
+            "怒っている"
+        ],
+        "answer": "怒っている"
+    },
+    {
+        "quest": "英語で「cheesy」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "陽気な",
+            "珍しい",
+            "真面目な",
+            "安っぽい"
+        ],
+        "answer": "安っぽい"
+    },
+    {
+        "quest": "「oneway」を日本語でいうと何？",
+        "choice": [
+            "止まれ",
+            "追越し禁止",
+            "一方通行",
+            "徐行"
+        ],
+        "answer": "一方通行"
+    },
+    {
+        "quest": "「shake off a cold」を日本語でいうと何？",
+        "choice": [
+            "風邪を撃退する",
+            "風邪をひく",
+            "風邪で倒れる",
+            "風邪をうつす"
+        ],
+        "answer": "風邪を撃退する"
+    },
+    {
+        "quest": "英語の「cover ground」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "はかどる",
+            "隠蔽する",
+            "練習する",
+            "知らせる"
+        ],
+        "answer": "はかどる"
+    },
+    {
+        "quest": "遺伝子の突然変異によって生まれた生物のことを、英語で何という？",
+        "choice": [
+            "echidna",
+            "kerberos",
+            "mutant",
+            "chimera"
+        ],
+        "answer": "mutant"
+    },
+    {
+        "quest": "「一切れのパン」を英語でいうと「a ○○○ of bread」。○○○は何？",
+        "choice": [
+            "peace",
+            "purse",
+            "piece",
+            "peak"
+        ],
+        "answer": "piece",
+        "write": 1
+    },
+    {
+        "quest": "「sweat blood」を日本語でいうと何？",
+        "choice": [
+            "見たくないもの",
+            "無駄なこと",
+            "懸命に働く",
+            "大怪我する"
+        ],
+        "answer": "懸命に働く"
+    },
+    {
+        "quest": "英語の「on the mend」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "大急ぎで",
+            "困惑して",
+            "熟練して",
+            "快方に向かって"
+        ],
+        "answer": "快方に向かって"
+    },
+    {
+        "quest": "blue collar・white collarなどというときの「collar」とは何のこと？",
+        "choice": [
+            "肩",
+            "襟",
+            "色",
+            "袖"
+        ],
+        "answer": "襟"
+    },
+    {
+        "quest": "「be keen to do」を日本語でいうと何？",
+        "choice": [
+            "乗り気になる",
+            "ためらう",
+            "傾向がある",
+            "可能性が高い"
+        ],
+        "answer": "乗り気になる"
+    },
+    {
+        "quest": "次のうち、「dawn」の反対の意味の単語はどれ？",
+        "choice": [
+            "husk",
+            "task",
+            "musk",
+            "dusk"
+        ],
+        "answer": "dusk"
+    },
+    {
+        "quest": "英語で「puppy」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "恋人",
+            "お菓子",
+            "もの",
+            "警察"
+        ],
+        "answer": "もの"
+    },
+    {
+        "quest": "英語で「breaststroke」という水泳の泳法は何？",
+        "choice": [
+            "クロール",
+            "平泳ぎ",
+            "バタフライ",
+            "背泳ぎ"
+        ],
+        "answer": "平泳ぎ"
+    },
+    {
+        "quest": "英語で「YOLO」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "友を大事に",
+            "人生は一度きり",
+            "のんびりいこうぜ",
+            "なんて嫌な奴"
+        ],
+        "answer": "人生は一度きり"
+    },
+    {
+        "quest": "英語で「urea」という、有機物質として無機物質から初めて合成された物質は何？",
+        "choice": [
+            "尿素",
+            "蟻酸",
+            "酪酸",
+            "ショ糖"
+        ],
+        "answer": "尿素"
+    },
+    {
+        "quest": "英語の「stand corrected」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "正攻法で",
+            "独立する",
+            "見晴らしが良い",
+            "誤りを認める"
+        ],
+        "answer": "誤りを認める"
+    },
+    {
+        "quest": "映画で、シリーズものの作品を、新たに製作し直すことを、「再起動」という意味の英語で何という？",
+        "choice": [
+            "reboot",
+            "rubout",
+            "repeat",
+            "remote"
+        ],
+        "answer": "reboot"
+    },
+    {
+        "quest": "「be addicted to」を日本語でいうと何？",
+        "choice": [
+            "慣れている",
+            "苦労する",
+            "似ている",
+            "中毒している"
+        ],
+        "answer": "中毒している"
+    },
+    {
+        "quest": "「place」を日本語でいうと何？",
+        "choice": [
+            "部屋",
+            "場所",
+            "平和",
+            "名誉"
+        ],
+        "answer": "場所"
+    },
+    {
+        "quest": "次のうち、英語では「atom」という素粒子は原子ですが、「electron」はどれ？",
+        "choice": [
+            "電子",
+            "中性子",
+            "原子",
+            "陽子"
+        ],
+        "answer": "電子"
+    },
+    {
+        "quest": "体操競技の「平行棒」を英語で「○○○ bars」という。○○○は何？",
+        "choice": [
+            "parallel",
+            "double",
+            "split",
+            "side"
+        ],
+        "answer": "parallel"
+    },
+    {
+        "quest": "英語で「六角形」のことを何という？",
+        "choice": [
+            "hexagon",
+            "octagon",
+            "pentagon",
+            "heptagon"
+        ],
+        "answer": "hexagon",
+        "write": 1
+    },
+    {
+        "quest": "「on behalf of」を日本語でいうと何？",
+        "choice": [
+            "代表して",
+            "原則的に",
+            "寸前で",
+            "請求次第"
+        ],
+        "answer": "代表して"
+    },
+    {
+        "quest": "英語の「go for broke」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "一か八かやる",
+            "遠出する",
+            "元気になる",
+            "疲れ切る"
+        ],
+        "answer": "一か八かやる"
+    },
+    {
+        "quest": "「boast of」を日本語でいうと何？",
+        "choice": [
+            "考慮する",
+            "自慢する",
+            "記録する",
+            "分断する"
+        ],
+        "answer": "自慢する"
+    },
+    {
+        "quest": "「kettle」を日本語でいうと何？",
+        "choice": [
+            "ヤカン",
+            "鍋",
+            "フライパン",
+            "フライ返し"
+        ],
+        "answer": "ヤカン",
+        "write": 4
+    },
+    {
+        "quest": "「at the drop of a hat」を日本語でいうと何？",
+        "choice": [
+            "ただちに",
+            "心の奥で",
+            "訳も分からず",
+            "同情して"
+        ],
+        "answer": "ただちに"
+    },
+    {
+        "quest": "「take it easy」を日本語でいうと何？",
+        "choice": [
+            "暇をつぶす",
+            "落ち着く",
+            "見くびる",
+            "選び取る"
+        ],
+        "answer": "落ち着く"
+    },
+    {
+        "quest": "「species」を日本語でいうと何？",
+        "choice": [
+            "香辛料",
+            "種類",
+            "宇宙",
+            "特別"
+        ],
+        "answer": "種類"
+    },
+    {
+        "quest": "借金の返済ができなくなる状態を、「債務不履行」という意味の英語で何という？",
+        "choice": [
+            "deflation",
+            "derivative",
+            "default",
+            "democracy"
+        ],
+        "answer": "default"
+    },
+    {
+        "quest": "英語名で「Uranus」と呼ぶ、太陽系の天体は何？",
+        "choice": [
+            "穀神星",
+            "海王星",
+            "冥王星",
+            "天王星"
+        ],
+        "answer": "天王星"
+    },
+    {
+        "quest": "英語で「game」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "滑稽な",
+            "ずるい",
+            "やる気がある",
+            "真剣さがない"
+        ],
+        "answer": "やる気がある"
+    },
+    {
+        "quest": "英語で「breeze」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "力強い",
+            "くさい",
+            "たやすい",
+            "若々しい"
+        ],
+        "answer": "たやすい"
+    },
+    {
+        "quest": "司会者などを指す「MC」を略さずいうと「Master of ○○○」。○○○は何？",
+        "choice": [
+            "Characters",
+            "Ceremonies",
+            "Controls",
+            "Commenters"
+        ],
+        "answer": "Ceremonies"
+    },
+    {
+        "quest": "英語の「be on the money」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "騒ぎ立てる",
+            "完璧である",
+            "隠し持つ",
+            "けち"
+        ],
+        "answer": "完璧である"
+    },
+    {
+        "quest": "小説や戯曲の「対話」を英語ていうと「dialogue」ですが、「独白」を英語でいうと何？",
+        "choice": [
+            "monologue",
+            "epilogue",
+            "prologue",
+            "dialogue"
+        ],
+        "answer": "monologue"
+    },
+    {
+        "quest": "英語で「deck」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "食べる",
+            "ひと眠りする",
+            "儲ける",
+            "殴り倒す"
+        ],
+        "answer": "殴り倒す"
+    },
+    {
+        "quest": "英語で分数の「1/3」は何という？",
+        "choice": [
+            "first third",
+            "one and three",
+            "first and three",
+            "one third"
+        ],
+        "answer": "one third"
+    },
+    {
+        "quest": "環太平洋経済連携協定「TPP」。最後の「P」は何という英単語の頭文字？",
+        "choice": [
+            "Pacific",
+            "Public",
+            "Peace",
+            "Partnership"
+        ],
+        "answer": "Partnership"
+    },
+    {
+        "quest": "英語で「setup」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "苦労",
+            "ぜいたく",
+            "試運転",
+            "八百長"
+        ],
+        "answer": "八百長"
+    },
+    {
+        "quest": "次のうち、英語で「100年」を意味する言葉はどれ？",
+        "choice": [
+            "annual",
+            "decade",
+            "century",
+            "millennium"
+        ],
+        "answer": "century"
+    },
+    {
+        "quest": "英語で「biography」といえば、次のうちどんな書物のこと？",
+        "choice": [
+            "戯曲",
+            "伝記",
+            "評論",
+            "随筆"
+        ],
+        "answer": "伝記"
+    },
+    {
+        "quest": "「by all means」を日本語でいうと何？",
+        "choice": [
+            "対照的に",
+            "ぜひ",
+            "頻繁に",
+            "偶然"
+        ],
+        "answer": "ぜひ"
+    },
+    {
+        "quest": "「stupid」を日本語でいうと何？",
+        "choice": [
+            "愚かな",
+            "確かな",
+            "まろやかな",
+            "軽やかな"
+        ],
+        "answer": "愚かな"
+    },
+    {
+        "quest": "次のうち、英語では「solid」という物質の状態はどれ？",
+        "choice": [
+            "固体",
+            "液体",
+            "気体",
+            "天体"
+        ],
+        "answer": "固体"
+    },
+    {
+        "quest": "12ヶ月の月名を英語で書いたとき、綴りの文字数が最も少ないのは何月？",
+        "choice": [
+            "7月",
+            "3月",
+            "5月",
+            "1月"
+        ],
+        "answer": "5月"
+    },
+    {
+        "quest": "英語の「put one's head in the noose」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "夢を見る",
+            "不可能なこと",
+            "わなにかかる",
+            "うまくやる"
+        ],
+        "answer": "わなにかかる"
+    },
+    {
+        "quest": "「break out」を日本語でいうと何？",
+        "choice": [
+            "呼び止める",
+            "起こる",
+            "呼吸する",
+            "侵入する"
+        ],
+        "answer": "起こる"
+    },
+    {
+        "quest": "英語で、建物の1階部分を何という？",
+        "choice": [
+            "down floor",
+            "ground floor",
+            "roof floor",
+            "front floor"
+        ],
+        "answer": "ground floor"
+    },
+    {
+        "quest": "英語で「nuke」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "核兵器",
+            "拳銃",
+            "ナイフ",
+            "戦車"
+        ],
+        "answer": "核兵器"
+    },
+    {
+        "quest": "英語で「flick」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "テレビ番組",
+            "小説",
+            "映画",
+            "音楽"
+        ],
+        "answer": "映画"
+    },
+    {
+        "quest": "次の図形のうち、英語で「parallelogram」というのは何？",
+        "choice": [
+            "三角形",
+            "星",
+            "円",
+            "平形四辺形"
+        ],
+        "answer": "平形四辺形"
+    },
+    {
+        "quest": "英語で「japan」といえば、次のうちどれを指す？",
+        "choice": [
+            "陶器",
+            "磁器",
+            "食器",
+            "漆器"
+        ],
+        "answer": "漆器"
+    },
+    {
+        "quest": "英語で「ハラスメント」のつづりは何？",
+        "choice": [
+            "harassment",
+            "halassment",
+            "harrassment",
+            "hallassment"
+        ],
+        "answer": "harassment"
+    },
+    {
+        "quest": "次のうち、「restriction」と似た意味の英単語はどれ？",
+        "choice": [
+            "constrain",
+            "condition",
+            "congestion",
+            "conclusion"
+        ],
+        "answer": "constrain"
+    },
+    {
+        "quest": "英語で「cocky」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "生意気",
+            "貧しい",
+            "かわいらしい",
+            "つまらない"
+        ],
+        "answer": "生意気"
+    },
+    {
+        "quest": "「許す」を英語でいうと何？",
+        "choice": [
+            "exam",
+            "excuse",
+            "exit",
+            "exist"
+        ],
+        "answer": "excuse"
+    },
+    {
+        "quest": "英文法の文の要素で、「C」で表されるものは次のうちどれ？",
+        "choice": [
+            "主語",
+            "動詞",
+            "補語",
+            "目的語"
+        ],
+        "answer": "補語"
+    },
+    {
+        "quest": "英語で「savage」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "巨大な",
+            "かっこいい",
+            "洗練された",
+            "貧しい"
+        ],
+        "answer": "かっこいい"
+    },
+    {
+        "quest": "「inviting」はどういう意味?",
+        "choice": [
+            "魅力的な",
+            "追加する",
+            "明らかな",
+            "使いふるす"
+        ],
+        "answer": "魅力的な"
+    },
+    {
+        "quest": "英語で「hip」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "安っぽい",
+            "太った",
+            "流行に敏感な",
+            "機嫌がいい"
+        ],
+        "answer": "流行に敏感な"
+    },
+    {
+        "quest": "「昇降機」を英語でいうと何？",
+        "choice": [
+            "gondola",
+            "elevator",
+            "crane",
+            "escalator"
+        ],
+        "answer": "elevator"
+    },
+    {
+        "quest": "「with ease」を日本語でいうと何？",
+        "choice": [
+            "注意して",
+            "興味を持って",
+            "たやすく",
+            "苦労して"
+        ],
+        "answer": "たやすく"
+    },
+    {
+        "quest": "「radio」と、ほぼ同じ意味を持つ単語はどれ?",
+        "choice": [
+            "aerial",
+            "wireless",
+            "left",
+            "antenna"
+        ],
+        "answer": "wireless"
+    },
+    {
+        "quest": "「the apple of one's eye」を日本語でいうと何？",
+        "choice": [
+            "大切なもの",
+            "汚点",
+            "妄想",
+            "些細なもの"
+        ],
+        "answer": "大切なもの"
+    },
+    {
+        "quest": "「badly off」を日本語でいうと何？",
+        "choice": [
+            "貧しく暮らす",
+            "風邪気味の",
+            "意地が悪い",
+            "お腹が減った"
+        ],
+        "answer": "貧しく暮らす"
+    },
+    {
+        "quest": "「どいてくれ!」という意味の文章「Get out ○○○ my way!」 ○○○の中に入るのは何?",
+        "choice": [
+            "with",
+            "of",
+            "off",
+            "to"
+        ],
+        "answer": "of"
+    },
+    {
+        "quest": "「だしぬけに」を英語でいうと「out of the ○○○」。○○○は何？",
+        "choice": [
+            "green",
+            "white",
+            "blue",
+            "red"
+        ],
+        "answer": "blue"
+    },
+    {
+        "quest": "「which」を日本語でいうと何？",
+        "choice": [
+            "どちら",
+            "何",
+            "誰",
+            "どのように"
+        ],
+        "answer": "どちら"
+    },
+    {
+        "quest": "「tear off」を日本語でいうと何？",
+        "choice": [
+            "中止する",
+            "引きちぎる",
+            "すすり泣く",
+            "大笑いする"
+        ],
+        "answer": "引きちぎる"
+    },
+    {
+        "quest": "英語の「break wind」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "くしゃみをする",
+            "げっぷをする",
+            "咳をする",
+            "おならをする"
+        ],
+        "answer": "おならをする"
+    },
+    {
+        "quest": "「sit down to」を日本語でいうと何？",
+        "choice": [
+            "拒絶する",
+            "熱心に始める",
+            "計算する",
+            "あきらめる"
+        ],
+        "answer": "熱心に始める"
+    },
+    {
+        "quest": "「spending money」を日本語でいうと何？",
+        "choice": [
+            "収入",
+            "貯金",
+            "こづかい銭",
+            "借りたお金"
+        ],
+        "answer": "こづかい銭"
+    },
+    {
+        "quest": "次のうち、「smell」と似た意味の英単語はどれ？",
+        "choice": [
+            "olive",
+            "oasis",
+            "odd",
+            "odor"
+        ],
+        "answer": "odor"
+    },
+    {
+        "quest": "「make a fuss」を日本語でいうと何？",
+        "choice": [
+            "大騒ぎする",
+            "議論する",
+            "結論を出す",
+            "行儀よくする"
+        ],
+        "answer": "大騒ぎする"
+    },
+    {
+        "quest": "「chemistry」を日本語でいうと何？",
+        "choice": [
+            "方程式",
+            "公式",
+            "化学反応",
+            "化学式"
+        ],
+        "answer": "化学反応"
+    },
+    {
+        "quest": "英語で「ace」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "素晴らしいもの",
+            "ひとりぼっち",
+            "未熟者",
+            "美女"
+        ],
+        "answer": "素晴らしいもの"
+    },
+    {
+        "quest": "「get the boot」を日本語でいうと何？",
+        "choice": [
+            "儲ける",
+            "回り道をする",
+            "着飾る",
+            "首になる"
+        ],
+        "answer": "首になる"
+    },
+    {
+        "quest": "「passive」の反対語はどれ?",
+        "choice": [
+            "active",
+            "aggressive",
+            "positive",
+            "progressive"
+        ],
+        "answer": "active"
+    },
+    {
+        "quest": "北欧神話の神・オーディンがその名の由来である曜日を表す英単語はどれ？",
+        "choice": [
+            "Thursday",
+            "Tuesday",
+            "Saturday",
+            "Wednesday"
+        ],
+        "answer": "Wednesday"
+    },
+    {
+        "quest": "「消費者物価指数」を表す英略語は次のうちどれ？",
+        "choice": [
+            "GNP",
+            "CPI",
+            "CIA",
+            "GDP"
+        ],
+        "answer": "CPI"
+    },
+    {
+        "quest": "英語の「cost the earth」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "ほらを吹く",
+            "無理なこと",
+            "危険を冒す",
+            "非常に高くつく"
+        ],
+        "answer": "非常に高くつく"
+    },
+    {
+        "quest": "「measure」を日本語でいうと何？",
+        "choice": [
+            "いかる",
+            "つかる",
+            "たかる",
+            "はかる"
+        ],
+        "answer": "はかる"
+    },
+    {
+        "quest": "「その」を英語で言うと何？",
+        "choice": [
+            "that",
+            "the",
+            "this",
+            "those"
+        ],
+        "answer": "the"
+    },
+    {
+        "quest": "英語で「Horizontal bar」という体操の種目は何？",
+        "choice": [
+            "平行棒",
+            "鉄棒",
+            "跳馬",
+            "あん馬"
+        ],
+        "answer": "鉄棒"
+    },
+    {
+        "quest": "英語で「sick」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "大げさな",
+            "眠い",
+            "お腹がすいた",
+            "素晴らしい"
+        ],
+        "answer": "素晴らしい"
+    },
+    {
+        "quest": "「～の他に」を英語でいうと「○○○ from」。○○○は何？",
+        "choice": [
+            "apart",
+            "different",
+            "absent",
+            "free"
+        ],
+        "answer": "apart"
+    },
+    {
+        "quest": "英語の「on the pavement」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "目立たない",
+            "捨てられて",
+            "うるさい",
+            "上機嫌で"
+        ],
+        "answer": "捨てられて"
+    },
+    {
+        "quest": "「with the sun」を日本語でいうと何？",
+        "choice": [
+            "大笑いして",
+            "背伸びして",
+            "赤くなって",
+            "右回りに"
+        ],
+        "answer": "右回りに"
+    },
+    {
+        "quest": "英語で「tug of war」といえば運動会でもおなじみのどんな競技のこと？",
+        "choice": [
+            "玉入れ",
+            "かけっこ",
+            "騎馬戦",
+            "綱引き"
+        ],
+        "answer": "綱引き"
+    },
+    {
+        "quest": "次のうち、「ridiculous」と似た意味の英単語はどれ？",
+        "choice": [
+            "absurd",
+            "abbreviate",
+            "abandon",
+            "abundance"
+        ],
+        "answer": "absurd"
+    },
+    {
+        "quest": "英語で「groovy」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "かっこいい",
+            "中身がない",
+            "騒がしい",
+            "めまいがする"
+        ],
+        "answer": "かっこいい"
+    },
+    {
+        "quest": "「continent」を日本語でいうと何？",
+        "choice": [
+            "島",
+            "立入禁止",
+            "大陸",
+            "私有地"
+        ],
+        "answer": "大陸"
+    },
+    {
+        "quest": "英語の「take pains」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "格好つける",
+            "病気になる",
+            "失態を犯す",
+            "苦労する"
+        ],
+        "answer": "苦労する"
+    },
+    {
+        "quest": "「square」を日本語でいうと何？",
+        "choice": [
+            "長方形",
+            "三角形",
+            "平行四辺形",
+            "正方形"
+        ],
+        "answer": "正方形"
+    },
+    {
+        "quest": "英語で「face-off」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "勝利",
+            "努力",
+            "対決",
+            "敗北"
+        ],
+        "answer": "対決"
+    },
+    {
+        "quest": "次のうち、「overcome」と似た意味の英単語はどれ？",
+        "choice": [
+            "conclude",
+            "conquer",
+            "conceal",
+            "confess"
+        ],
+        "answer": "conquer"
+    },
+    {
+        "quest": "「all in all」を日本語でいうと何？",
+        "choice": [
+            "未来永劫",
+            "全知全能の",
+            "細かいことまで",
+            "概して"
+        ],
+        "answer": "概して"
+    },
+    {
+        "quest": "次のうち、「odd」の反対の意味の単語はどれ？",
+        "choice": [
+            "evolve",
+            "even",
+            "evil",
+            "evidence"
+        ],
+        "answer": "even"
+    },
+    {
+        "quest": "英語で「R and R」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "基本事項",
+            "気休め",
+            "仲違い",
+            "間違い"
+        ],
+        "answer": "気休め"
+    },
+    {
+        "quest": "「ときどき」を英語でいうと何？",
+        "choice": [
+            "at times",
+            "beyond times",
+            "on times",
+            "from times"
+        ],
+        "answer": "at times"
+    },
+    {
+        "quest": "「for instance」を日本語でいうと何？",
+        "choice": [
+            "例えば",
+            "結局",
+            "なぜなら",
+            "長い間"
+        ],
+        "answer": "例えば"
+    },
+    {
+        "quest": "英語の「down the line」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "最後まで",
+            "途中でやめる",
+            "不合格になる",
+            "うっかりして"
+        ],
+        "answer": "最後まで"
+    },
+    {
+        "quest": "英語で「Pommel horse」という体操の種目は何？",
+        "choice": [
+            "平行棒",
+            "鉄棒",
+            "跳馬",
+            "あん馬"
+        ],
+        "answer": "あん馬"
+    },
+    {
+        "quest": "「経験」という意味を持つ英単語はどれ？",
+        "choice": [
+            "experience",
+            "experiance",
+            "expirience",
+            "experieence"
+        ],
+        "answer": "experience"
+    },
+    {
+        "quest": "3D映画といった時のDとは何という英単語の略？",
+        "choice": [
+            "differentiation",
+            "devastation",
+            "directional",
+            "dimensional"
+        ],
+        "answer": "dimensional"
+    },
+    {
+        "quest": "「正統の」を英語では「orthodox」と言う。では「異端の」は英語で何?",
+        "choice": [
+            "paradox",
+            "heterodox",
+            "dogmadox",
+            "orthodox"
+        ],
+        "answer": "heterodox"
+    },
+    {
+        "quest": "次のうち、「foreign」の反対の意味の単語はどれ？",
+        "choice": [
+            "domain",
+            "domestic",
+            "dominant",
+            "dormitory"
+        ],
+        "answer": "domestic"
+    },
+    {
+        "quest": "「鼻水」を英語でいうと何？",
+        "choice": [
+            "runny nose",
+            "wind nose",
+            "rainy nose",
+            "fire nose"
+        ],
+        "answer": "runny nose"
+    },
+    {
+        "quest": "地震波の種類「S波」の「S」は一般的に何という英単語の頭文字とされる？",
+        "choice": [
+            "Surface",
+            "Sudden",
+            "Slow",
+            "Secondary"
+        ],
+        "answer": "Secondary"
+    },
+    {
+        "quest": "foray intoの意味は?",
+        "choice": [
+            "～に進出する",
+            "邪魔する",
+            "調査する",
+            "内省する"
+        ],
+        "answer": "～に進出する"
+    },
+    {
+        "quest": "英語で「逆立ち」のことを何という？",
+        "choice": [
+            "pushup",
+            "pushstand",
+            "handstand",
+            "handup"
+        ],
+        "answer": "handstand"
+    },
+    {
+        "quest": "英語で「crush」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "結婚する",
+            "ナンパする",
+            "破局する",
+            "恋に落ちる"
+        ],
+        "answer": "恋に落ちる"
+    },
+    {
+        "quest": "次のうち、英語では「gas」という物質の状態は気体ですが、「solid」はどれ？",
+        "choice": [
+            "固体",
+            "気体",
+            "液体",
+            "天体"
+        ],
+        "answer": "固体"
+    },
+    {
+        "quest": "次のうち、英語では「proton」という素粒子は陽子ですが、「neutron」はどれ？",
+        "choice": [
+            "原子",
+            "電子",
+            "陽子",
+            "中性子"
+        ],
+        "answer": "中性子"
+    },
+    {
+        "quest": "「behind closed doors」を日本語でいうと何？",
+        "choice": [
+            "苦労して",
+            "大騒ぎして",
+            "こっそりと",
+            "公共の場で"
+        ],
+        "answer": "こっそりと"
+    },
+    {
+        "quest": "英語で「lemon」がスラングとして使われるときの意味は何？",
+        "choice": [
+            "不良品",
+            "好物",
+            "さわやか",
+            "小銭"
+        ],
+        "answer": "不良品"
+    },
+    {
+        "quest": "英語の「pull off」という熟語に近い意味の日本語は何？",
+        "choice": [
+            "急ブレーキを踏む",
+            "後退する",
+            "路肩に寄せる",
+            "衝突する"
+        ],
+        "answer": "路肩に寄せる"
+    },
+    {
+        "quest": "英語の人称代名詞で、「He」や「She」といえば何人称？",
+        "choice": [
+            "一人称",
+            "四人称",
+            "三人称",
+            "二人称"
+        ],
+        "answer": "三人称"
+    },
+    {
+        "quest": "「lawyer」を日本語でいうと何？",
+        "choice": [
+            "弁護士",
+            "議員",
+            "官房長官",
+            "裁判官"
+        ],
+        "answer": "弁護士"
+    },
+    {
+        "quest": "意思決定能力のあるうちに自らの延命措置に関して意思表示をした文書のことを英語で何という？",
+        "choice": [
+            "living must",
+            "living will",
+            "living may",
+            "living can"
+        ],
+        "answer": "living will"
+    }
+]

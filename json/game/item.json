@@ -1,0 +1,62 @@
+{
+    "おにぎり": {
+        "name": "おにぎり",
+        "explanation": "Excellentで正解すると、HPが10回復する。",
+        "image": "onigiri.png",
+        "effect": {}
+    },
+    "時計": {
+        "name": "時計",
+        "explanation": "解答時間が1.5倍になる。",
+        "image": "pocket_watch.png",
+        "effect": {}
+    },
+    "本": {
+        "name": "本",
+        "explanation": "記述問題の出現率が高くなる。",
+        "image": "book.png",
+        "effect": {}
+    },
+    "眼鏡": {
+        "name": "眼鏡",
+        "explanation": "記述問題が出現しなくなる。",
+        "image": "glasses.png",
+        "effect": {}
+    },
+    "ニンニク": {
+        "name": "ニンニク",
+        "explanation": "全ての攻撃力が1.5倍になる。代償に解答時間が1/2倍になる。",
+        "image": "garlic.png",
+        "effect": {}
+    },
+    "錠剤": {
+        "name": "錠剤",
+        "explanation": "記述問題をExcellentで正解すると、攻撃力が3倍になる。",
+        "image": "medicine.png",
+        "effect": {}
+    },
+    "バット": {
+        "name": "バット",
+        "explanation": "選択問題をExcellentで正解すると、攻撃力が1.5倍になる。",
+        "image": "bat.png",
+        "effect": {}
+    },
+    "注射器": {
+        "name": "注射器",
+        "explanation": "Lv4問題を正解するとHPが5回復し、攻撃力が1.2倍になる。",
+        "image": "syringe.png",
+        "effect": {}
+    },
+    "三角定規": {
+        "name": "三角定規",
+        "explanation": "Excellentで正解すると攻撃力が0.5倍、通常正解でHPが10回復し、攻撃力が1.5倍になる。",
+        "image": "sankakujyogi.png",
+        "effect": {}
+    },
+    "虫眼鏡": {
+        "name": "虫眼鏡",
+        "explanation": "記述問題の先頭1文字が分かる。Lv2以下の記述問題の正解での攻撃力が0.8倍になる。",
+        "image": "lupe.png",
+        "effect": {}
+    }
+}
